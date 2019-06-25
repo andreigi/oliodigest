@@ -282,13 +282,17 @@ compress_html:
 
 # Defaults
 defaults:
+  # global
+  - scope:
+      path: ""
+    values:
+      classes: wide
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      classes: wide
       author_profile: true
       read_time: true
       comments: # true
