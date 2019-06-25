@@ -290,7 +290,6 @@ defaults:
       layout: single
       author_profile: true 
       read_time: true
-      toc: true
       comments: # true
       share: true
       related: true
