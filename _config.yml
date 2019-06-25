@@ -182,8 +182,8 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - # ignore Minimal Mistakes /docs
+  - # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -282,25 +282,13 @@ compress_html:
 
 # Defaults
 defaults:
-  # global
-  - scope:
-      path: ""
-    values:
-      classes: wide
-      sidebar:
-        - title: "Title"
-          image: http://placehold.it/350x250
-          image_alt: "image"
-          text: "Some text here."
-        - title: "Another Title"
-          text: "More text here."
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: # true
       share: true
