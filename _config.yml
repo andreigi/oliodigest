@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "OlioDigestTrading"
+title                    : "OlioDigest Trading"
 title_separator          : "-"
 name                     : "Drei"
 description              : "Analysis and Trading of Cryptocurrencies such as Bitcoin, Ethereum and Altcoins"
