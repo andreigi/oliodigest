@@ -1,5 +1,5 @@
 ﻿---
-layout: posts
+layout: single
 title: Easy Way to Move your Decred Airdrop to the Exchanges (Windows)
 categories: [altcoins]
 tags: [decred]
