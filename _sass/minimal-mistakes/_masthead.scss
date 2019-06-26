@@ -45,7 +45,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:600);
 .customtitle {
   font-family: 'Open Sans', sans-serif;
-  font-size: 32px;
+  display: inherit;
 }
 .site-title {
   display: -webkit-box;
@@ -55,6 +55,7 @@
   align-self: center;
   font-weight: bold;
   z-index: 20;
+  margin-right: 0 !important;
 }
 .midnight {
   color: #2c3e50;
