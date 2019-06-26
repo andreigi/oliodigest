@@ -1,8 +1,4 @@
-﻿---
-<<<<<<< HEAD
-=======
-layout: single
->>>>>>> origin/master
+---
 title: Easy Way to Move your Decred Airdrop to the Exchanges (Windows)
 categories: [altcoins]
 tags: [decred]
