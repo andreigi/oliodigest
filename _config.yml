@@ -16,20 +16,20 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Olio Digest of Trading"
+title                    : "OlioDigestTrading"
 title_separator          : "-"
 name                     : "Drei"
-description              : "An amazing website."
+description              : "Analysis and Trading of Cryptocurrencies such as Bitcoin, Ethereum and Altcoins"
 url                      : "https://andreigi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "andreigi/andreigi.github.io" # GitHub username/repo-name e.g. "andreigi/andreigi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/favicon-32x32.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "staticman", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -43,14 +43,14 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment by {fields.name}"
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'message'] # 'url'
+  branch                 : "master"
+  commitMessage          : "New comment by {fields.name}"
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : # "md5"
   generatedFields:
@@ -83,12 +83,12 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "drei4u"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/android-chrome-192x192.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -106,21 +106,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Drei"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Drei aka Bitcoin Master"
+  avatar           : "https://pbs.twimg.com/profile_images/1002100033628520453/VH0f7DmD_200x200.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Full-time $CRYPTO Trader since 03112014. Trading Signals for Bitcoin and other Cryptocurrencies."
+  location         : "13.7239978,100.5120524"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Website"
+    - label: "Tradingview"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.tradingview.com/u/drei4u/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/drei4u"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -136,7 +136,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/drei4u"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
