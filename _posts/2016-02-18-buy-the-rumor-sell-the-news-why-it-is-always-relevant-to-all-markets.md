@@ -25,5 +25,4 @@ And so, the temporary price crash cycle begins. Traders begin to outsell one ano
 
 This is all about market psychology--fear of missing out on a profit opportunity (greed) and fear of losing value.
 
-#### Eventually the price will stabilized at an equilibrium between sellers and buyers--A price where most sellers won’t sell at and a price where 
-most buyers won’t buy at.
+#### Eventually the price will stabilized at an equilibrium between sellers and buyers--A price where most sellers won’t sell at and a price where most buyers won’t buy at.
