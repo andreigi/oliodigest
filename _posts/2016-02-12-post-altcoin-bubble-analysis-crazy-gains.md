@@ -1,5 +1,5 @@
 ﻿---
-title: Post-Altcoin Bubble Analysis -- Crazy Gains
+title: Post-Altcoin Bubble Analysis - Crazy Gains
 categories: [altcoins]
 ---
 
