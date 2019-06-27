@@ -1,5 +1,7 @@
 # main links
 main:
-  - title: "Under Construction"
-    description: "What's up"
-    url: https://nowhere.com/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    description: "Mostly altcoins"
+    url: /tags/
