@@ -95,7 +95,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://twitter.com/drei4u"
+    - "https://www.tradingview.com/u/drei4u/"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
