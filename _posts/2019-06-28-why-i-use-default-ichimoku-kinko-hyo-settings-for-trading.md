@@ -3,8 +3,6 @@ title: Why I use default Ichimoku Kinko Hyo settings for trading
 categories: [trading, technical analysis]
 ---
 
-Why I use default Ichimoku Kinko Hyo settings for trading
-
 People ask me from time to time why I use the standard settings so now I will explain myself so that I will not repeat again.
 
 I don’t recommend Ichimoku for newbie traders. Because it’s like driving a car without knowing how and why the engine works or why brakes work
@@ -30,18 +28,16 @@ If you Google search for answers from top traders, you will see the same message
 for obtaining optimum results with Ichimoku. He derived the number 26 from what was then the standard Japanese business month (which included Saturdays). 
 The number 9 represents a week and a half and the number 52 represents two months. 
 
-The standard settings for an Ichimoku Kinko Hyo chart are 9, 26, 52.
+> The standard settings for an Ichimoku Kinko Hyo chart are 9, 26, 52.
 
-There is some debate around whether or not these settings of 9,26,52 are still valid given that the standard work month in the West does not 
+> There is some debate around whether or not these settings of 9,26,52 are still valid given that the standard work month in the West does not 
 include Saturdays. In addition, in non-centralized markets that do not keep standard business hours like the Forex (which trades around the clock) 
 some have posited that there may be more appropriate settings.
 
-**Nevertheless, most other professional Ichimoku traders, agree that the standard settings of 9,26,52 work extremely well and do not need to be altered**.
+> **Nevertheless, most other professional Ichimoku traders, agree that the standard settings of 9,26,52 work extremely well and do not need to be altered**.
 The argument could be made that, since Ichimoku Kinko Hyo functions as a **finely-tuned, integrated whole**, changing the settings to something 
 other than the standard could throw the system out of balance and introduce invalid signals.
 
-### Math
-
-If you want mathematics to explain Ichimoku Kinko Hyo default settings, visit this [excellent article](https://medium.com/thedailydose/ichimoku-cloud-explained-thoroughly-debunking-ichimoku-myths-93fc2a88ac42) explaining it. 
+### BBands
 
 Another thing, if the chart you are using doesn’t have Ichimoku, try experimenting with Bollinger Bands, they work almost the same.
