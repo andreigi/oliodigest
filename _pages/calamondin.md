@@ -1,7 +1,7 @@
 ---
 title: "Calamondin: The Miniature Orange"
 permalink: /calamondin/
-author_profile: true
+excerpt: "Kumquats are not calamondins"
 ---
 
 ### Background
