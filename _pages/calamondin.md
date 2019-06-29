@@ -1,6 +1,6 @@
 ---
 title: "Calamondin: The Miniature Orange"
-permalink: /categories/
+permalink: /calamondin/
 author_profile: true
 ---
 
