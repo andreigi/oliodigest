@@ -1,6 +1,5 @@
 ---
-title: "Posts by Category"
-layout: categories
+title: "Calamondin: The Miniature Orange"
 permalink: /categories/
 author_profile: true
 ---
