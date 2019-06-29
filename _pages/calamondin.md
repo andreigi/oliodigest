@@ -1,8 +1,12 @@
 ---
 title: "Calamondin: The Miniature Orange"
+layout: single
 permalink: /calamondin/
 excerpt: "Kumquats are not calamondins"
 toc: true
+read_time: true
+comments: true
+share: true
 ---
 
 ### Background
