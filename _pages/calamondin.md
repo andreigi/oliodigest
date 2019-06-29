@@ -1,5 +1,5 @@
 ---
-title: Calamondin: The Miniature Orange
+title: "Calamondin: The Miniature Orange"
 permalink: /calamondin/
 author_profile: true
 ---
