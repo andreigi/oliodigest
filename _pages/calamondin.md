@@ -1,5 +1,7 @@
 ---
+permalink: /calamondin/
 title: Calamondin: The Miniature Orange
+excerpt: "Kumquats are not calamondins"
 ---
 
 ### Background
