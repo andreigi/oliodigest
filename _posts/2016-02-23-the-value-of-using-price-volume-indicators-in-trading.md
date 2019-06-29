@@ -20,7 +20,7 @@ You can avoid disasters or exploit trade opportunities when you include them wit
 ### Warning
 
 As you become more active in using technical analysis (TA) in your trading, you will notice that your decisions seem to gravitate to relying on technical indicators
-such as the above and probably more like the MACD or the stochastic oscillator indicator. **I urge you to resist on doing that!*
+such as the above and probably more like the MACD or the stochastic oscillator indicator. **I urge you to resist on doing that!**
 
 Indicators are great as it is akin to knowing whether you're on land or at sea, but it does not tell you where exactly you are located.
 
