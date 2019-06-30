@@ -97,6 +97,7 @@ social:
   links: # An array of links to social media profiles
     - "https://twitter.com/drei4u"
     - "https://www.tradingview.com/u/drei4u/"
+    - "https://telegram.me/drei4u"
 # Analytics
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
