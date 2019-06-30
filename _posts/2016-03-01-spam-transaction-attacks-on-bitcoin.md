@@ -4,7 +4,7 @@ categories: [blockchain]
 tags: [bitcoin]
 ---
 
-If you go to https://bitcoinfees.21.co/ now, you will see that there are many cheapskates or maybe spam transactions under 1–30 satoshis per byte 
+If you go to <https://bitcoinfees.21.co/> now, you will see that there are many cheapskates or maybe spam transactions under 1–30 satoshis per byte 
 transaction fee. It roughly means there are many transactions trying to pay with under 3.4 US cents (BTC price: $437, median transaction size of 
 258 bytes). **Forty percent of it are paying with 1.1 US cents**.
 
