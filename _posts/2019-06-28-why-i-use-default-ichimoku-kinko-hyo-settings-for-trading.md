@@ -3,7 +3,7 @@ title: Why I use default Ichimoku Kinko Hyo settings for trading
 categories: [trading, technical analysis]
 ---
 
-People ask me from time to <a href="http://test.com" rel="external nofollow">time</a> why I use the standard settings so now I will explain myself so that I will not repeat again.
+People ask me from time to time why I use the standard settings so now I will explain myself so that I will not repeat again.
 
 I don’t recommend Ichimoku for newbie traders. Because it’s like driving a car without knowing how and why the engine works or why brakes work
 or why speedily turning around a corner is bad.
