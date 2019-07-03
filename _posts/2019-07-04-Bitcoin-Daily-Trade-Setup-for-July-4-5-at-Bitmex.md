@@ -12,3 +12,5 @@ So, what we have here is either a bullish flag pattern or a middle of a forming 
 In any case you buy the breakout of the red line indicated in the daily chart. It aligns with both patterns.
 
 The chart follow Bitmex's. Both patterns are still bullish.
+
+{% include video id="Gs7xbKSTPkE" provider="youtube" %}
