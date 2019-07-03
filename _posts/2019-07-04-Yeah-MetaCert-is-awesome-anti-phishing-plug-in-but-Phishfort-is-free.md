@@ -3,7 +3,7 @@ title: "Yeah, MetaCert is an awesome anti-phishing plug-in but Phishfort is free
 categories: [blockchain, reviews, security]
 ---
 
-I used to have MetaCert’s CRYPTONITE installed and it worked great – No more manually verifying if Bitmex’s address is legit and not fake.
+I used to have MetaCert’s CRYPTONITE installed in my browser and it worked great – No more manually verifying if Bitmex’s address is legit and not fake.
 
 ![phishfort logo](https://www.phishfort.com/img/phishfort-logo-dark.png "phishfort")
 
@@ -15,4 +15,4 @@ Bittrex, Poloniex, Bitfinex, Binance, etc – all the known crypto sites.
 
 But alas, it’s not free anymore and lately I don’t log in as much as I used to. Thank God, there is a free option which is [Phishfort](https://www.phishfort.com/)
 and its [Chrome plug-in](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc?hl=en).
-Although not as extensive as MetaCert’s CRYPTONITE, Phishfort does the job well. One of these days, it will become popular and have more sites to protect.
+Although not as extensive as MetaCert’s CRYPTONITE, Phishfort anti-phishing browser plug-in does the job well. One of these days, it will become popular and have more sites to protect.
