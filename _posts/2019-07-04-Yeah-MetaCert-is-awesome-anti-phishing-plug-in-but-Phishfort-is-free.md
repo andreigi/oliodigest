@@ -11,7 +11,7 @@ You can’t assume that your old bookmark is still a valid one; hackers and phis
 you get unsuspectingly re-directed to a phishing site and then poof your Bitcoin is gone.
 
 That’s why it is vital that for every crypto-related site you visit, you make sure it’s the real one. MetaCert also protects MyEtherwallet (MEW), 
-Bittrex, Poloniex, Bitfinex, etc – all the known crypto sites.
+Bittrex, Poloniex, Bitfinex, Binance, etc – all the known crypto sites.
 
 But alas, it’s not free anymore and lately I don’t log in as much as I used to. Thank God, there is a free option which is [Phishfort](https://www.phishfort.com/)
 and its [Chrome plug-in](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc?hl=en).
