@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Daily Trade Setup for July 4 - 5"
+title: "Bitcoin Daily BTCUSD Trade Setup for July 4 - 5"
 categories: [trading, technical analysis]
 tags: [bitcoin]
 ---
