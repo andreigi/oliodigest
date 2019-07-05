@@ -1,7 +1,9 @@
-﻿---
+---
 title: Easy Way to Move your Decred Airdrop to the Exchanges (Windows)
 categories: [altcoins]
 tags: [decred]
+header:
+  teaser: "https://arzmodern.net/media/k2/items/cache/4d8c9898b5bb88437f053c8b957f47f3_S.jpg/assets/images/my-awesome-post-teaser.jpg"
 ---
 
 It's quite frustrating for people who aren't techie enough and must rely on third-party services to provide a crypto wallet; especially for this recently
