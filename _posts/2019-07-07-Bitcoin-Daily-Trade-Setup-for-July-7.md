@@ -11,3 +11,7 @@ The dumps are weaker than the pumps. The first circle sees a bullish railway tra
 The second dump is weaker while the pump is stronger but we have to wait for the daily candlestick to print. This will be another bullish railway track.
 
 ![daily chart]({{ site.baseurl }}/posts-images/20190707.png "daily")
+
+Update:
+Expecting resistance along the top line.
+![new daily chart]({{ site.baseurl }}/posts-images/20190707d.jpg "new daily")
