@@ -1,8 +1,7 @@
 ---
+title: Halloween Costumes
 permalink: /202/may-the-fourth-be-with-you/
 ---
-<title>Halloween Costumes</title>
-<a href="/">Home</a>
 >"Have fun, kids!" Verina's mom shouts as you leave the community center to join one of the groups of children forming out front.
 >"I can't believe you talked me into this," you mutter to Verina while tugging at your tights.
 >You hate tights. You wouldn't have chosen Peter Pan if you had any say in the matter, but Veronica had you stripped and stuffed into the costume before you even knew what was happening.
