@@ -16,7 +16,12 @@
     font-size: medium;
     margin: 0;
     padding: 2px;
-    background: #ccc;
+	color: #7a8288;
+	background-color: #e8d5b7;
+	border: 1px solid #baaa92;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.125);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.125);
 }
 
 #webmentions .reacts img {
