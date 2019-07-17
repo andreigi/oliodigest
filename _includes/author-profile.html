@@ -30,7 +30,8 @@
     {% if author.home %}
       <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
     {% else %}
-      <h3 class="author__name u-url p-name" itemprop="name">{{ author.name }}</h3>
+      <h3 class="author__name p-name" itemprop="name">{{ author.name }}</h3>
+	  <link class="u-url" href="{{ site.url }}">
     {% endif %}
     {% if author.bio %}
       <p class="author__bio p-note" itemprop="description">
