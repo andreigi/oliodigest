@@ -2,6 +2,7 @@
 title: "Bitcoin Daily BTCUSD Trade Setup for July 7"
 categories: [trading, technical analysis]
 tags: [bitcoin]
+comments: false
 header:
   teaser: /posts-images/20190707.png
 ---
