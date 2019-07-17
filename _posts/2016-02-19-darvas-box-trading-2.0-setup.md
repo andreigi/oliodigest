@@ -1,7 +1,6 @@
 ---
 title: Darvas Box Trading 2.0 Setup
-categories: [trading, technical analysis]
-comments: false
+categories: [trading, technical-analysis]
 ---
 
 The new Darvas box trading 2.0 method combines what worked in the past with today’s tools to help refine the setup conditions and the trigger for the trade. 

@@ -1,7 +1,6 @@
 ---
 title: Why I use default Ichimoku Kinko Hyo settings for trading
-categories: [trading, technical analysis]
-comments: false
+categories: [trading, technical-analysis]
 header:
   teaser: "/posts-images/cloud.jpg"
 ---

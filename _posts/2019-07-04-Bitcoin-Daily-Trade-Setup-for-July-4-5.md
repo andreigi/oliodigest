@@ -1,9 +1,8 @@
 ---
 title: "Bitcoin Daily BTCUSD Trade Setup for July 4 - 5"
-categories: [trading, technical analysis]
+categories: [trading, technical-analysis]
 tags: [bitcoin]
 excerpt: "So, what we have here is either a bullish flag pattern or a middle of a forming descending wedge pattern. In any case you buy the breakout of the red line indicated in the daily chart. It aligns with both patterns."
-comments: false
 header:
   teaser: /posts-images/5d1d2419baa41.png
 ---

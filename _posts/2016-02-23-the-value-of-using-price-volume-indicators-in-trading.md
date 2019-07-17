@@ -1,7 +1,6 @@
 ---
 title: The Value of Using Price-Volume Indicators in Trading
-categories: [trading, technical analysis]
-comments: false
+categories: [trading, technical-analysis]
 ---
 
 * On-balance volume
