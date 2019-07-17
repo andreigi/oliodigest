@@ -21,7 +21,7 @@
           <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
         </a>
       {% else %}
-        <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+        <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image" class="u-photo" />
       {% endif %}
     </div>
   {% endif %}
@@ -30,10 +30,10 @@
     {% if author.home %}
       <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
     {% else %}
-      <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
+      <h3 class="author__name u-url p-name" itemprop="name">{{ author.name }}</h3>
     {% endif %}
     {% if author.bio %}
-      <p class="author__bio" itemprop="description">
+      <p class="author__bio p-note" itemprop="description">
         {{ author.bio }}
       </p>
     {% endif %}
