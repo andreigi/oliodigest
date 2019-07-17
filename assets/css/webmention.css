@@ -1,5 +1,6 @@
 #webmentions {
     margin: 0;
+	margin-top: 44px;
     position: relative;
     z-index: 100;
     line-height: 1.2em;
@@ -8,7 +9,7 @@
 #webmentions .comments {
     max-height: 20em;
     overflow-x: hidden;
-    overflow-y: scroll;
+    overflow-y: hidden;
     font-size: 80%;
 }
 
@@ -16,12 +17,12 @@
     font-size: medium;
     margin: 0;
     padding: 2px;
-	color: #7a8288;
-	background-color: #e8d5b7;
+	background-color: #fc3a52;
 	border: 1px solid #baaa92;
 	border-radius: 4px;
 	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.125);
 	box-shadow: 0 1px 1px rgba(0,0,0,0.125);
+	color: #fff;
 }
 
 #webmentions .reacts img {
