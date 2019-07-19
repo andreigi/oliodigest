@@ -23,8 +23,11 @@ I'm also excited to see what my comment will look like when it comes out in Aaro
 1. Add an [H-Card to your website](https://indiewebify.me/) so you can use your social media credentials to log in to Indieweb websites.
 2. Sign up to <https://webmention.io/> and <https://brid.gy/>. Bridgy will poll all your Twitter and Instagram posts mentioning your website/blog and then it will ping 
 Webmention in your behalf the replies you get from those sites and then Webmention.io will host all your webmentions in which you can then display in your site.
-3. Install the <https://github.com/PlaidWeb/webmention.js> so that you can render the comments in your static site via javascript.
+3. Install Fluffy's <https://github.com/PlaidWeb/webmention.js> so that you can render the comments in your static site via javascript.
 4. For commenting on Webmention-enabled sites, I like using <https://telegraph.p3k.io/>.
+
+Note:
+I  prefer using Javascript since the comments are updated in real time. For now, I'm using Fluffy's script but maybe in the near future, I might try Vox Pelli's [endpoint](https://webmention.herokuapp.com/).
 
 Good Luck!
 
