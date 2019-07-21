@@ -217,7 +217,7 @@ kramdown:
 collections:
   replies:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
 
 # Defaults
 defaults:
