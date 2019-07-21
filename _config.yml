@@ -301,7 +301,7 @@ defaults:
 collections:
   cookies:
     output: true
-    permalink: /baked-goods/:path/
+  
 	
 defaults:
   # _replies
