@@ -296,3 +296,19 @@ defaults:
       comments: true
       share: true
       related: true
+
+collections:
+  replies:
+    output: true
+    permalink: /:collection/:path/
+	
+defaults:
+  # _replies
+  - scope:
+      path: ""
+      type: replies
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true

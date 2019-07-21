@@ -5,3 +5,5 @@ main:
   - title: "Tags"
     description: "Mostly altcoins"
     url: /tags/
+  - title: "Replies"
+    url: /replies/
