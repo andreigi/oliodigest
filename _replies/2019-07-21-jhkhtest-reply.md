@@ -1,5 +1,5 @@
 ---
-title: "test two"
+slug: "test two"
 header:
   teaser: /posts-images/shitty-comments.jpg
 ---
