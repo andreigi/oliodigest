@@ -298,10 +298,6 @@ defaults:
       share: true
       related: true
 
-collections:
-  cookies:
-    output: true
-  
 	
 defaults:
   # _replies
