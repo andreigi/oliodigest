@@ -160,6 +160,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _replies
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -300,7 +301,7 @@ defaults:
 collections:
   replies:
     output: true
-    permalink: /:collection/:title
+    permalink: /:collection/:title/
 	
 defaults:
   # _replies
