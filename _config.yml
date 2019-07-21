@@ -274,11 +274,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-collections:
-  replies:
-    output: true
-    permalink: /:collection/:title/
-	
+
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
