@@ -299,9 +299,9 @@ defaults:
       related: true
 
 collections:
-  my_collection:
+  cookies:
     output: true
-    permalink: /:collection/:name
+    permalink: /baked-goods/:path/
 	
 defaults:
   # _replies
