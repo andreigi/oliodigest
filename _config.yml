@@ -299,9 +299,9 @@ defaults:
       related: true
 
 collections:
-  replies:
+  my_collection:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:collection/:name
 	
 defaults:
   # _replies
