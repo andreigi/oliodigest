@@ -15,7 +15,7 @@ layout: default
 {% endif %}
 <link rel="webmention" href="https://webmention.io/oliodigest.com/webmention" />
 <link rel="pingback" href="https://webmention.io/oliodigest.com/xmlrpc" />
-<div id="main" role="main"><div class="h-entry">
+<div id="main" role="main"><span class="h-entry">
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
@@ -71,7 +71,7 @@ layout: default
     {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
-  </article></div>
+  </article></span>
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
