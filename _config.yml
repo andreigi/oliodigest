@@ -218,7 +218,31 @@ collections:
   replies:
     output: true
     permalink: /:collection/:path/
-	
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      toc: true
+      author_profile: true 
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _replies
+  - scope:
+      path: ""
+      type: replies
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -286,28 +310,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      toc: true
-      author_profile: true 
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _replies
-  - scope:
-      path: ""
-      type: replies
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
