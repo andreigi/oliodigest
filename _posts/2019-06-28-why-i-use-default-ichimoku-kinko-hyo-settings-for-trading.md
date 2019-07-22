@@ -43,3 +43,5 @@ other than the standard could throw the system out of balance and introduce inva
 ### BBands
 
 Another thing, if the chart you are using doesn’t have Ichimoku, try experimenting with Bollinger Bands, they work almost the same.
+
+_[Syndicated](http://kleete.com/homepage)_
