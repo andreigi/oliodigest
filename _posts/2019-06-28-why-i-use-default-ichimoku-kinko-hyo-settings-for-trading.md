@@ -48,7 +48,7 @@ around the world of FX Forums – there are indeed settings beyond the default 9
 great deal of customization and individuality – the standard 9 | 26 | 52 are like a “Swiss Army Knife”. - [Vincent Hunt](https://huntfxtrading.wordpress.com/2006/08/02/parameter-settings-for-ichimoku-whats-best/), 
 Ichimoku Analyst | Forex Market.
 
-## Why are the Default Settings Wrong?
+### Why are the Default Settings Wrong?
 
 > They aren’t. Saying that the default settings on the Ichimoku are wrong is the equivalent of stating that the toppings you got on your pizza is ‘wrong’. 
 In fact, the settings that people have tried to apply on the Ichimoku in lieu of the defaults, are much more nonsensical than 
