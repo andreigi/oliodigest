@@ -40,6 +40,22 @@ some have posited that there may be more appropriate settings.
 The argument could be made that, since Ichimoku Kinko Hyo functions as a **finely-tuned, integrated whole**, changing the settings to something 
 other than the standard could throw the system out of balance and introduce invalid signals.
 
+[Manesh Patel](https://www.linkedin.com/in/manesh-patel-cmt-cfte-a85a082/), C.T.O. of E.I.I. Capital Group, has been using default settings for years.
+He is a veteran Ichimoku trader and has posted many educational videos on Youtube.
+
+> First day back on the job and I have gotten this message about 10 times and so I will deal with it here for future “askers”. As it has been floating 
+around the world of FX Forums – there are indeed settings beyond the default 9 | 26 | 52 parameters. Though these options that are out there offer a 
+great deal of customization and individuality – the standard 9 | 26 | 52 are like a “Swiss Army Knife”. - [Vincent Hunt](https://huntfxtrading.wordpress.com/2006/08/02/parameter-settings-for-ichimoku-whats-best/), 
+Ichimoku Analyst | Forex Market.
+
+## Why are the Default Settings Wrong?
+
+> They aren’t. Saying that the default settings on the Ichimoku are wrong is the equivalent of stating that the toppings you got on your pizza is ‘wrong’. 
+In fact, the settings that people have tried to apply on the Ichimoku in lieu of the defaults, are much more nonsensical than 
+the defaults could ever be. - [proofofresearch](https://steemit.com/bitcoin/@proofofresearch/ichimoku-cloud-explained-thoroughly-debunking-ichimoku-myths)
+
 ### BBands
 
 Another thing, if the chart you are using doesn’t have Ichimoku, try experimenting with Bollinger Bands, they work almost the same.
+
+
