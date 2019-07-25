@@ -19,9 +19,8 @@ analysis is just squiggly lines, that’s ok. At least, put up some reasoning be
 Tools you may need:
 
 <https://cryptowat.ch/>
-<https://cryptrader.com/> (Expandable charts e.g. <https://cryptrader.com/charts/bitstamp/btc/usd> )
+<https://cryptrader.com/> 
 <https://www.coinigy.com/> (Free trial for a month)
-<http://altcoinlive.com/>
 
 Go here to join: <https://telegram.me/coinfarm>
 
