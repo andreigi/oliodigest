@@ -5,13 +5,12 @@ header:
   teaser: /posts-images/shitty-comments.jpg
 ---
 
-I would like to thank [Nicolas Hoizey](https://nicolas-hoizey.com/2017/07/so-long-disqus-hello-webmentions.html) for introducing me to [webmentions](https://webmention.io/)
-and [Bridgy](https://brid.gy/).
+I would like to thank Nicolas Hoizey for introducing me to [webmentions](https://webmention.io/) and [Bridgy](https://brid.gy/).
 
 Glad to know that I'm not alone in thinking we netizens shouldn't always rely on centralized internet services such as Disqus, Facebook, and even Twitter, in spite of 
 the ease of use, we should be independent of them.
 
-Also [Chad Lee's post](https://www.chadly.net/embracing-the-indieweb/) provided the perfect use of the H-Card and H-Entry for Microformats.
+Also Chad Lee provided the perfect use of the H-Card and H-Entry for Microformats.
 
 This all started when I was looking for a commenting system for my static blog. Most don't like commenting through Facebook and Disqus because they are heavily moderated by
 parent sites - no negative comments allowed even if it's the truth.
@@ -20,8 +19,8 @@ I'm also excited to see what my comment will look like when it comes out in Aaro
 
 Also another thing that I noticed, Webmention is still not popular enough for the mainstream. If you plan to comment on posts, you would likely still need to log in
 to your Disqus-Facebook-Wordpress commenting system. So far, the best feature of Webmention is the ability to integrate Tweets as a discussion to your post.
-[Freek Van der Herten](https://freek.dev/1406-how-to-add-webmentions-to-a-laravel-powered-blog) ingeniously instructs commenters to reply to a linked 
-tweet to the post if they happen to discover the content via the blog.
+Freek Van der Herten ingeniously instructs commenters to reply to a linked tweet to the post if they happen to discover the content via the blog. But the downside
+is you have to have a Twitter account.
 
 ### What You Need
 
