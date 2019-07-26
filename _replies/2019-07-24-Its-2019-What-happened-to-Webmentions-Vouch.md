@@ -9,3 +9,5 @@ What interests me is the [Vouch](https://indieweb.org/Vouch) feature of Webmenti
 some more browsing of Indieweb sites.
 
 I think this [old post](https://aaronparecki.com/2014/10/17/14/vouch) by Aaron Parecki is a test for vouch.
+
+Anyway, do you want to upload, embed and share [SVG vector files](http://svgshare.com/)? You can try to look around in there.
