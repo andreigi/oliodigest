@@ -49,3 +49,5 @@ the 50/200 Moving Average Golden Cross of January 31, 2016.
 You can try fade shorting but never try to short along the support lines. Bring out the four hour chart, you can see it's forming a descending triangle. You can fade short from the top diagonal resistance line.
 
 The outlook is still bullish long term. The support areas mentioned are the prices you should watch out for buying. Try scaling in your buys little by little along the support lines.
+
+[here](http://warbler.soupmode.com/homepage)
