@@ -9,7 +9,7 @@ header:
 The three month chart shows the Chaikin Money Flow (CMF) started declining since October 2, 2017 when the price is still doing its parabolic advance to
 $20,000. Money flows turned negative on July 2, 2018 and accelerated further downwards until October 1, 2018.
 
-![CMF chart]({{ site.baseurl }}/posts-images/2019-07-28-3mo.png "Money flows")
+[![CMF chart]({{ site.baseurl }}/posts-images/2019-07-28-3mo.png "Money flows")]({{ site.baseurl }}/posts-images/2019-07-28-3mo.png)
 
 BUT when Bitcoin is still about to lose 50%, money flows has reversed from the negative and until now it is still going up. At this point, casual 
 investors shouldn't be worried that they bought high during the rally to $13,000 this year. There is increasing money flows.
