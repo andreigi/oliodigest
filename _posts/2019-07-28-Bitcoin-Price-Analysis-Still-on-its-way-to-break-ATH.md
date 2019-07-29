@@ -16,7 +16,7 @@ investors shouldn't be worried that they bought high during the rally to $13,000
 
 ### Monthly Chart
 
-![monthly chart]({{ site.baseurl }}/posts-images/2019-07-28-mo.png "monthly")
+[![monthly chart]({{ site.baseurl }}/posts-images/2019-07-28-mo.png "monthly")]({{ site.baseurl }}/posts-images/2019-07-28-mo.png)
 
 The monthly chart shows accelerated dumping, probably by retail investors who bought $10,000 plus bitcoin during the last bull rally as they are 
 cashing out to minimize losses.
@@ -26,7 +26,7 @@ and signal further downward movement in August.
 
 ### Weekly Chart
 
-![week chart]({{ site.baseurl }}/posts-images/2019-07-28-week.png "weekly")
+[![week chart]({{ site.baseurl }}/posts-images/2019-07-28-week.png "weekly")]({{ site.baseurl }}/posts-images/2019-07-28-week.png)
 
 The weekly chart shows a diagonal trendline with higher lows made during March 25 and April 29. It is still intact if the price bounces off the monthly
 no-no line/Kijun line of $8,701 (refer to the monthly chart above regarding bearish railway). If this doesn't hold, we will see $6,597.
@@ -35,14 +35,14 @@ no-no line/Kijun line of $8,701 (refer to the monthly chart above regarding bear
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you think <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoin</a> is still correcting, btfd. $8500 is a gift, $7500 is an all-in! <a href="https://t.co/g9ChUgnp4z">https://t.co/g9ChUgnp4z</a> <a href="https://t.co/GKf1tIinVh">pic.twitter.com/GKf1tIinVh</a></p>&mdash; Bitcoin Master (@drei4u) <a href="https://twitter.com/drei4u/status/1154347022054379521?ref_src=twsrc%5Etfw">July 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![3day chart]({{ site.baseurl }}/posts-images/2019-07-28-3day.png "3day")
+[![3day chart]({{ site.baseurl }}/posts-images/2019-07-28-3day.png "3day")]({{ site.baseurl }}/posts-images/2019-07-28-3day.png)
 
 The three-day chart analysis still stands. My tweet compares the present chart with the previous three-day chart that showed what happened during 
 the 50/200 Moving Average Golden Cross of January 31, 2016.
 
 ### Daily Chart
 
-![day chart]({{ site.baseurl }}/posts-images/2019-07-28-daily.png "day")
+[![day chart]({{ site.baseurl }}/posts-images/2019-07-28-daily.png "day")]({{ site.baseurl }}/posts-images/2019-07-28-daily.png)
 
 ### Conclusion
 
