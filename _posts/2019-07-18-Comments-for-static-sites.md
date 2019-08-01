@@ -16,6 +16,7 @@ This all started when I was looking for a commenting system for my static blog. 
 parent sites - no negative comments allowed even if it's the truth.
 
 I'm also excited to see what my comment will look like when it comes out in Aaron Parecki's test [post](https://aaronparecki.com/2018/06/30/11/your-first-webmention).
+I love how [Matthias Ott](https://matthiasott.com/articles/into-the-personal-website-verse) uses Webmention beautifully.
 
 Also another thing that I noticed, Webmention is still not popular enough for the mainstream. If you plan to comment on posts, you would likely still need to log in
 to your Disqus-Facebook-Wordpress commenting system. So far, the best feature of Webmention is the ability to integrate Tweets as a discussion to your post.
