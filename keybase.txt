@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/drei4u
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://oliodigest.com
+  * I am drei4u (https://keybase.io/drei4u) on keybase.
+  * I have a public key with fingerprint E16E 8A24 5CD2 EBDF 11E8  B4DF 6E2C 3E5C 93E7 D299
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010137fc6eeb9929a811d58a055d9c3dd003500d0d911e4233a9f8bcd3b4096245d50a",
+      "fingerprint": "e16e8a245cd2ebdf11e8b4df6e2c3e5c93e7d299",
+      "host": "keybase.io",
+      "key_id": "6e2c3e5c93e7d299",
+      "kid": "010137fc6eeb9929a811d58a055d9c3dd003500d0d911e4233a9f8bcd3b4096245d50a",
+      "uid": "f50c25fca96bfb23db4050bd5f2d3319",
+      "username": "drei4u"
+    },
+    "service": {
+      "hostname": "oliodigest.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1565031688,
+  "expire_in": 157680000,
+  "prev": "36ac4ca81091917bca53df95551aec0055beb4f27a671f7b42d5d90d23d56758",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBRRGF5Ny7xhpF3p4iAqYXLOnD1zWSKhh6geLA3FB3ObmXNmnXad
+WWd3vWCGgWER9hCVdpMuUFgWtBEolqRJkJKEQkWIlRhWoEE9JSqdEXvrsfNyOP//
+fd///R9nMGWFKzFmT0Hv04XhydaY4f62iOvIvsaEBk61SD3naeD8dOmiAUJDYa/f
+IJyHAxBAJOqaQKkqy7ysSBASLCkAYyJriBAAEAaAACJDSN08QoqsS6pGkOoGssC7
+McFA4fI43TB91A7ahhlmshQKVFJYVyM8VYnOuJLqJrpAeQ1RrMmIioSXZUastEIO
+g5lTlRDNNyxWYw/vkr1/4P+z78iSnI6BxmNdU2RB1VUeEYbCQCVY5wlC0JkbCVHb
+VKooQxObGu4I15jHsVqNoVEnVmeP5b4VMCxi+FjK+ZpVxbhB2wpbmhVgvcpwOBjy
+ONxwfdAB11LVuyzjVQ2TsBwZo4baIcMyOQ9kSC1sOLoQCxggKEhSHkfrgoZNvYaD
+wKIgAXacObSGSSJB0dwaiwTIUIaiqikYEV3GGEOFaoBlpFLVrfOiIohQF1U3T1hq
+gLC9sSBiiXMWqzYtzoOYTcXHJEOGz1TCEZtyjQPPy+NcMYmulfGxzv9yJa5O+/vr
+ulCCq0lPzJ7y8VNbDr0Yedtyq6MPBmfeDVz4OF1Qv+H77MDjlJ+X+GBDNLO950Fl
+dpH+LLs0OSm9o2T3o01Hd10+PvQwff/k+da0z/VrTz0p3PFGv75187kD8X1xRXuv
+lm25VuDt9B+4cKN3SjzY3U8DM9GyrNTp4vScnPaSK2j45afZK7ffB9rHc5omKsq9
+l+pef1jc2PalZX3uWLe/VPw9r5sXDyfNHbuaM3Jn8OuY+W0499WZ6N3a2JNpi5GW
+hLmMnSRaPZoRJdOZvyS4/f7Zop6hilFhW/LlzlXt9s0T91ITxpMX1gRmaWHX/Gxh
+8bqs5tN+vyJmVUxwWUXNP/a2xuKuP4YaPtQ=
+=Iu50
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/drei4u
+
+==================================================================
