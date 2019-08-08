@@ -1,6 +1,10 @@
 ins.adsbygoogle {
 	border-bottom: none;
 }
+ins.ee {
+	border-bottom: none;
+}
+/* Google stuff above */
 .webmention-form {
 	font-size: 80%;
 	margin-top: 44px;
