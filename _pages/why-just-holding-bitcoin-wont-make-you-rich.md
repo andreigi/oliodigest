@@ -24,7 +24,6 @@ valued at $7.5 trillion. A $1m BTC is a $21 trillion market capitalization. So, 
 [![Tim Draper]({{ site.baseurl }}/posts-images/Tim-Draper-Predicts-a-250k-Bitcoin-696x449.jpg "250k in 2023")]({{ site.baseurl }}/posts-images/Tim-Draper-Predicts-a-250k-Bitcoin-696x449.jpg)
 
 According to Tim Draper:
-
 > $250,000 by 2022, and I’m hedging a little, maybe Q1 2023. It may be Q1 2023, but it will be $250,000 before that.
 
 That was Tim Draper's [latest BTC price prediction](https://www.fxstreet.com/cryptocurrencies/news/tim-drapers-250-000-bitcoin-prediction-to-wait-until-q1-of-2023-201908120957). His
