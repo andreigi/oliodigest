@@ -1,5 +1,5 @@
 ---
-title: "Why just holding Bitcoin won't make you rich"
+title: "Why Just Holding Bitcoin Won't Make You Rich"
 layout: single
 permalink: /why-just-holding-bitcoin-wont-make-you-rich/
 author_profile: true
@@ -19,7 +19,7 @@ The first instance is highly unlikely to happen in our lifetimes because it woul
 $1 million per coin. Some say this assumption is too far out and no one can predict it may even happen at all. Take note that currently the gold's market is 
 valued at $7.5 trillion. A $1m BTC is a $21 trillion market capitalization. So, it's very improbable to happen.
 
-## The best Bitcoin price prediction
+## The Best Bitcoin Price Prediction
 
 [![Tim Draper]({{ site.baseurl }}/posts-images/Tim-Draper-Predicts-a-250k-Bitcoin-696x449.jpg "250k in 2023")]({{ site.baseurl }}/posts-images/Tim-Draper-Predicts-a-250k-Bitcoin-696x449.jpg)
 
@@ -33,4 +33,6 @@ at $600 and then it crashed below $200 (a whopping 69% loss from his purchase pr
 **Now this is a more realistic target for holders, but it still won't make you a millionaire**. Why? $3k worth of BTC today will just bring you $73,500 in
 Draper's future. The $10k investment will bring $245,000, still a lot short from your one million dollar target.
 
-**What you really need to prepare for Tim Draper's prediction is to acquire, accumulate or earn <ins>4 BTC</ins>!**
+_What you really need to prepare for Tim Draper's prediction is to acquire, accumulate or earn <ins>4 BTC</ins>!_
+****
+## Bitcoin Margin Trading is the Key to a Million Dollars
