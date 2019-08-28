@@ -16,8 +16,8 @@ The minimum target for most speculators is to become a USD millionaire. If you b
 a $10,000 worth of the cryptocurrency, you will need 10,000% increase in price.
 
 The first instance is highly unlikely to happen in our lifetimes because it would mean 1 BTC is $3.4 million while the $10k investment would need BTC to reach
-$1 million per coin. Some say this assumption is too far out and no one can predict it may even happen at all. Take note that currently the gold's market is 
-valued at $7.5 trillion. A $1m BTC is a $21 trillion market capitalization. So, it's very improbable to happen.
+$1 million per coin. Some say this assumption is too delusional and no one can predict that far out into the future. It may never happen at all. Take note that
+currently the gold's market is valued at $7.5 trillion. A $1M BTC is a $21 trillion market capitalization. So, it's very improbable to happen.
 
 ## The Best Bitcoin Price Prediction
 
