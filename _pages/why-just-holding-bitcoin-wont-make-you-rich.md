@@ -32,3 +32,5 @@ at $600 and then it crashed below $200 (a whopping 69% loss from his purchase pr
 
 **Now this is a more realistic target for holders, but it still won't make you a millionaire**. Why? $3k worth of BTC today will just bring you $73,500 in
 Draper's future. The $10k investment will bring $245,000, still a lot short from your one million dollar target.
+
+**What you really need to prepare for Tim Draper's prediction is to acquire, accumulate or earn <ins>4 BTC</ins>!**
