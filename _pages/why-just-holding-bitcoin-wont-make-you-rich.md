@@ -19,7 +19,7 @@ The first instance is highly unlikely to happen in our lifetimes because it woul
 $1 million per coin. Some say this assumption is too far out and no one can predict it may even happen at all. Take note that currently the gold's market is 
 valued at $7.5 trillion. A $1m BTC is a $21 trillion market capitalization. So, it's very improbable to happen.
 
-### The best Bitcoin price prediction
+## The best Bitcoin price prediction
 
 [![Tim Draper]({{ site.baseurl }}/posts-images/Tim-Draper-Predicts-a-250k-Bitcoin-696x449.jpg "250k in 2023")]({{ site.baseurl }}/posts-images/Tim-Draper-Predicts-a-250k-Bitcoin-696x449.jpg)
 
