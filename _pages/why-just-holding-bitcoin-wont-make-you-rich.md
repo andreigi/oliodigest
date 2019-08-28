@@ -35,6 +35,4 @@ Draper's future. The $10k investment will bring $245,000, still a lot short from
 
 _What you really need to prepare for Tim Draper's prediction is to acquire, accumulate or earn <ins>4 BTC</ins>!_
 
-****
-
 ## Bitcoin Margin Trading is the Key to a Million Dollars
