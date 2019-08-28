@@ -58,4 +58,4 @@ get 6 out of 10 trade setups correctly before trading with real BTC.
 [Bitmex](https://oliodigest.com/go/bitmex/) also has a testnet you can practice trade on. The sandbox will provide you a testnet Bitcoin address to deposit to.
 Get testnet bitcoins [here](https://coinfaucet.eu/en/btc-testnet/).
 
-<p class="notice--warning">Note: You can only get 10% fee discount for six months if you register through this [affiliate link](https://oliodigest.com/go/bitmex/).</p>
+<p class="notice--warning">Note: You can only get 10% fee discount for six months if you register through this <a href="https://oliodigest.com/go/bitmex/">affiliate link</a>.</p>
