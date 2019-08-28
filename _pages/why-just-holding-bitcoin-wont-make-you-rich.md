@@ -7,6 +7,8 @@ read_time: true
 comments: true
 share: true
 classes: wide
+header:
+  teaser: /ramen.png
 ---
 
 So, you bought your first Bitcoin. According to some studies, people who buy Bitcoin, purchase $3,000 worth on average. It is almost equal to one month's
