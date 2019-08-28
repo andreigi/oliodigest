@@ -36,3 +36,26 @@ Draper's future. The $10k investment will bring $245,000, still a lot short from
 _What you really need to prepare for Tim Draper's prediction is to acquire, accumulate or earn <ins>4 BTC</ins>!_
 
 ## Bitcoin Margin Trading is the Key to a Million Dollars
+
+Many crypto exchanges allow this type of trading, with margin trades allowing for holders to "borrow" Bitcoin from the exchange in order to make a trade. 
+You can borrow twice, thrice or even 10x your BTC capital. Normally, you need $10,000 to buy 1 Bitcoin at $10,000 limit price but if you do a 10x leverage
+(borrow), that's only $1,000. You buy 1 Bitcoin with 0.1 BTC by buying a 10x leveraged position. You pay only 10% Initial Margin. You can also short sell 
+Bitcoin(profit from a crashing Bitcoin) by selling and buying (closing a position) later. The most you can lose is your margin.
+
+You can easily turn your $3,000 into $15,000 in one trade setup. Thereby, reaching your 4 BTC goal faster. However, it is important to note that with the 
+leverage factor you could also increase your losses exponentially - "_With high leverage comes great responsibility_."
+
+### Best Platform to Margin Trade Bitcoin
+
+[Bitcoin Mercantile Exchange or BitMEX](https://oliodigest.com/go/bitmex/) for short is an advanced derivatives trading platform for cryptocurrencies. It serves as a trading platform for investors 
+to interact with global financial markets using Bitcoin as capital. The exchange focuses on derivatives trading as it offers perpetual swap contracts as 
+well as daily and weekly futures contracts.
+
+**[Bitmex](https://oliodigest.com/go/bitmex/) by far is the most liquid and most popular platform for trading Bitcoin, Cardano, Bitcoin Cash, EOS Token, Ethereum, Tron, or Ripple.** If you don't
+care about altcoins, this is the only way to make you a millionaire. Of course, before embarking on this journey, learn to trade first. Make sure you get at least
+get 6 out of 10 trade setups correctly before trading with real BTC. 
+
+[Bitmex](https://oliodigest.com/go/bitmex/) also has a testnet you can practice trade on. The sandbox will provide you a testnet Bitcoin address to deposit to.
+Get testnet bitcoins [here](https://coinfaucet.eu/en/btc-testnet/).
+
+<p class="notice--warning">Note: You can only get 10% fee discount for six months if you register through this [affiliate link](https://oliodigest.com/go/bitmex/).</p>
