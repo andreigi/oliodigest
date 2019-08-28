@@ -38,18 +38,16 @@ layout: default
       <section class="page__content" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
-            <nav class="toc">
+			<nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Featured Article</h4></header>
+              <ul class="toc__menu">
+				<li><a href="/why-just-holding-bitcoin-wont-make-you-rich/">Why Just Holding Bitcoin Won’t Make You Rich</a></li>
+			  </ul>
+            </nav>    		  
+            <nav class="toc" style="margin-top: 5px;">
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label }}</h4></header>
               {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
             </nav>
-			<nav class="toc">
-              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Featured</h4></header>
-              <ul class="toc__menu">
-				<li><a href="/why-just-holding-bitcoin-wont-make-you-rich/">Maybe these guys will be mainstream someday</a>
-				 <a href="https://oliodigest.com/go/bitmex/"><img border="0" style="margin-top: 5px;" src="/BitMEX-banner-sidebar.png" title="Note: The 6-month's worth of 10% fee discount only activates through referral links"></a>
-				 </li>
-			  </ul>
-            </nav>           
           </aside>
         {% endif %}
 		<div class="e-content">
