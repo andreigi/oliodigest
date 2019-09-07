@@ -39,7 +39,9 @@ go-to markets, if you will. So, the analogy is; Bitcoin is for the crypto econom
 
 Based off the charts, an altcoin season starts when Bitcoin is in an obvious bullrun. Just check out the start and end periods, how they line up perfectly to
 the rise of the crypto marketcap. A Bitcoin bullrun happened on the first and last season, the second one was a fluke, because it was probably the Bitcoin 
-traders who were mainly responsible. Why during an uptrend? I'm guessing it's new money, new believers wanting a repeat of Bitcoin's phenomenal rise.
+traders who were mainly responsible since Bitcoin margin trading was still largely untrusted. Okcoin launched their leverage trading platform in June 2014. 
+
+Why during an uptrend? I'm guessing it's new money, new believers wanting a repeat of Bitcoin's phenomenal rise.
 
 I'm thinking around October 2019 to January 2020, a new altcoin season may start. **But only if Bitcoin starts to break $14,000 resistance levels or maintain
 this price as a support level after breaking it.**
