@@ -45,3 +45,6 @@ Why during an uptrend? I'm guessing it's new money, new believers wanting a repe
 
 I'm thinking around October 2019 to January 2020, a new altcoin season may start. **But only if Bitcoin starts to break $14,000 resistance levels or maintain
 this price as a support level after breaking it.**
+
+> The idea that altcoins can't go up because there are no new market participants in altcoins is absurd. Do you really think Ma and Pa will buy a shitcoin 
+because it's down 95%? No, they'll buy a shitcoin that is up 1000% because their friend doubled his money with it. - [CryptoDonAlt](https://twitter.com/CryptoDonAlt/status/1170106684095815680)
