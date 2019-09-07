@@ -2,7 +2,7 @@
 title: "Hopium: When is the Next Altcoin Season?"
 categories: [trading, altcoins, technical-analysis]
 header:
-  teaser: /posts-images/2019-09-08-altcoin-headache.png
+  teaser: /posts-images/2019-09-08-altcoin-death.jpg
 ---
 
 If you think OG Bitcoin hodlers have a rough time just holding their bitcoins since 2013 and enduring those 70 - 80% plus or minus losses market cycle after
