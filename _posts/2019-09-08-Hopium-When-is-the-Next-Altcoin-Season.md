@@ -20,7 +20,7 @@ altcoin is still a microcap (under $1m market capitalization), you could possibl
 ### What is Altcoin season?
 
 An altcoin season is something that altcoin crypto traders look forward to. The exchange where most of the altcoin trading happens is currently in Binance. 
-It used to be in Poloniex, Bittrex, Cryptsy (dead, owner exit scammed)and Mintpal (dead, owner exit scammed). Altseason is a period where all cryptocurrencies
+It used to be in Poloniex, Bittrex, Cryptsy (dead, owner exit scammed) and Mintpal (dead, owner exit scammed). Altseason is a period where all cryptocurrencies
 other than bitcoin exponentially grow in value. From large market capitalization to small capitalization, these coins can rise anywhere by 100% to 10,000%.
 
 ### Charts
@@ -36,6 +36,10 @@ go-to markets, if you will. So, the analogy is; Bitcoin is for the crypto econom
 [![total cryptocurrencies marketcap]({{ site.baseurl }}/posts-images/2019-09-08-total-marketcap.png "total cryptocurrencies marketcap")]({{ site.baseurl }}/posts-images/2019-09-08-total-marketcap.png)
 
 ### Conclusion
+
+Based off the charts, an altcoin season starts when Bitcoin is in an obvious bullrun. It happened on the first and last season, the second one was a fluke,
+because it was the Bitcoin traders who were mainly responsible. Why during an uptrend? I'm guessing it's new money, new believers wanting a repeat of Bitcoin's
+phenomenal rise.
 
 I'm thinking around October 2019 to January 2020, a new altcoin season may start. **But only if Bitcoin starts to break $14,000 resistance levels or maintain
 this price as a support level after breaking it.**
