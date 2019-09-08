@@ -5,7 +5,7 @@ header:
   teaser: /posts-images/shitty-comments.jpg
 ---
 
-I would like to thank Nicolas Hoizey for introducing me to [webmentions](https://webmention.io/) and [Ryan Barrett's](https://snarfed.org/) [Bridgy](https://brid.gy/).
+I would like to thank [Nicolas Hoizey](https://nicolas-hoizey.com/2017/07/so-long-disqus-hello-webmentions.html) for introducing me to [webmentions](https://webmention.io/) and [Ryan Barrett's](https://snarfed.org/) [Bridgy](https://brid.gy/).
 
 Glad to know that I'm not alone in thinking we netizens shouldn't always rely on centralized internet services such as Disqus, Facebook, and even Twitter, in spite of 
 the ease of use, we should be independent of them.
