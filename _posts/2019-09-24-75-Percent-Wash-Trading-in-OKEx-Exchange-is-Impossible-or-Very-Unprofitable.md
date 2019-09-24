@@ -38,6 +38,8 @@ said Lennix Lai, Director of Financial Markets for OKEx. “And we’re working 
 
 OkEx is actively tracking possible manipulation with a 24/7 team. They are also a party to the Data Accountability & Transparency Alliance led by CoinMarketCap.
 
+----
+
 The truth of the matter is: Wash trading in crypto is unprofitable for extended periods of time because you'll be paying for trading fees, unlike before when
 trading was free. Even if the exchange is doing it themselves, it would be unaccountable in the ledgers.
 
