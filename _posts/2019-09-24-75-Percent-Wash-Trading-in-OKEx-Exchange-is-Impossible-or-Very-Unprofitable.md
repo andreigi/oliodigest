@@ -31,6 +31,9 @@ its secret proprietary algorithm. They claim they could clean all wash trading f
 But the problem here is how did they arrive at that conclusion? What method did they use to derive the results. OkEx believe that BTI has not done their due
 diligence, stating: “BTI’S RESEARCH METHODOLOGY IS NOT TRANSPARENT AND THEY DO NOT PROVIDE DATA TO BACK UP THEIR CLAIMS.”
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">perfect -- I think you have the right idea. I am not a fan of BTI or bitwise in their methodology and think is very faulty TBH but they pretend like it is some secret sauce. Suddenly some check mark verified &quot;100% certified angus beef&quot; type thing is getting popular in crypto now</p>&mdash; BTCVIX (@BTCVIX) <a href="https://twitter.com/BTCVIX/status/1176360853475614720?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m asking u guys these questions cuz u guys claim &quot;transparency&quot; on ur site but I can not find anything about ur team or how ur able to derive the wash trading data claims you are making.<br><br>If I can verify that ur methodologies are &quot;feasible&quot; I want to share it with our viewers.</p>&mdash; Tai Zen (@HeyTaiZen) <a href="https://twitter.com/HeyTaiZen/status/1175624882941353984?ref_src=twsrc%5Etfw">September 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 What's more OKEx has been active in removing bad actors in its exchange. “I would say there is a lot of suspicious trade activity on OKEx,” 
 said Lennix Lai, Director of Financial Markets for OKEx. “And we’re working on a lot of measures to prevent that stuff.”
 
