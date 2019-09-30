@@ -1,7 +1,7 @@
 ---
 title: "The Story of Bitcoin's 3-Day Chart 50MA/200MA"
 categories: [trading, technical-analysis]
-tags: [bitcoin]
+tags: [bitcoin, fail]
 header:
   teaser: /posts-images/2019-08-29-3day6.png
 ---

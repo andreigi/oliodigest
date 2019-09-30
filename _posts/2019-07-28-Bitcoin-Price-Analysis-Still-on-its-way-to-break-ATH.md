@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Price Analysis: Still on its way to break ATH"
 categories: [trading, technical-analysis]
-tags: [bitcoin]
+tags: [bitcoin, success]
 header:
   teaser: /posts-images/2019-07-28-daily.png
 ---

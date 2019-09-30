@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin about to blast off if the weekly candle closes engulfing"
 categories: [trading, technical-analysis]
-tags: [bitcoin]
+tags: [bitcoin, success]
 header:
   teaser: /posts-images/2019-08-04-daily.png
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Price Prediction Chart: All eyes on July 21"
 categories: [trading, technical analysis]
-tags: [bitcoin]
+tags: [bitcoin, success]
 header:
   teaser: /posts-images/2019-07-15-daily.png
 ---
