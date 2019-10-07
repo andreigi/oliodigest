@@ -1,7 +1,42 @@
 ---
-title: Halloween Costumes
+title: "Halloween Costumes: May The Fourth Be With You"
 permalink: /202/may-the-fourth-be-with-you/
 ---
+Every Halloween we love to dress up in costumes. We go trick or treating with the kids and sometimes we include the family dog. The best dog costumes so far that I’ve seen are the Star Wars Dog Costumes. If your pet is a Shih Tzu, then a Shih Tzu Ewok costume is perfect.
+
+DIY: HOW TO MAKE YOUR OWN EWOK COSTUME
+Use a teddy bear as tall as the height of your dog. Remove its face, tips of feet, and the back off. Also, remove all the stuffing except the bear’s ears and arms.
+
+Sew or pin a brown hood on in style of Wicket or other Ewok. Place dog’s feet in bear’s feet and slip bear’s head over your Shih Tzu’s head.
+
+Materials:
+
+brown felt (in yardage and not felt craft squares)
+leather rope for decoration
+Using your Shih Tzu’s face measurements, draw and oval on to a piece of paper.
+Cut this out and place it on a piece of large brown felt and use chalk to transfer it onto the felt.
+Cut out the face oval from the felt cloth.
+Try this piece on your Shih Tzu and make sure the oval is snug but not too tight.
+Using tailor’s chalk, mark where to cut the ear holes.
+Draping technique – start pining in felt areas where you need to trim and hem the costume. It is best that the sides and back of the head needed to be taken in a bit for a more rounded shape. You’ll also need to trim the front area to create the front piece of the headdress.
+Take the felt off your Shih Tzu and cut out the areas where the ears go.
+Trim and hem all the pinned edges you marked.
+Try it on your dog again and repeat any steps above necessary to achieve desired outcome.
+Add a leather string along the right top of side of the Ewok’s face.
+
+Ewoks originate from the Star Wars films. In the series, they are a species of teddy-bear-like hunter-gatherers that inhabit the forest moon of Endor. The Ewoks live in various tree-huts and primitive dwellings. They first appeared in the film Star Wars Episode VI: Return of the Jedi (1983). They have since featured in two made-for-television films, Caravan of Courage: An Ewok Adventure and Ewoks: The Battle for Endor, as well as an animated series and several books and games. Some fans of Star Wars say that Ewoks are silly and “ruined” the film.
+
+However, shih tzus are definitely cuter than Ewoks .
+[![ewok shih tzu](https://web.archive.org/web/20121115175419im_/http://oliodigest.com/wp-content/uploads/Daphne_as_an_Ewok2-533x800.jpg)](https://web.archive.org/web/20121115175419im_/http://oliodigest.com/wp-content/uploads/Daphne_as_an_Ewok2-533x800.jpg)
+
+[![ewok shih tzu](https://web.archive.org/web/20121115175407im_/http://oliodigest.com/wp-content/uploads/Daphne_as_an_Ewok3.jpg)](https://web.archive.org/web/20121115175407im_/http://oliodigest.com/wp-content/uploads/Daphne_as_an_Ewok3.jpg)
+[![ewok shih tzu](http://i.imgur.com/BKQvpl.jpg)](http://i.imgur.com/BKQvpl.jpg)
+[![ewok shih tzu](https://web.archive.org/web/20121115175355im_/http://oliodigest.com/wp-content/uploads/shih_tzu_ewok.jpg)](https://web.archive.org/web/20121115175355im_/http://oliodigest.com/wp-content/uploads/shih_tzu_ewok.jpg)
+[![ewok shih tzu](https://web.archive.org/web/20121115175348im_/http://oliodigest.com/wp-content/uploads/1795038177_796bd30dac.jpg)](https://web.archive.org/web/20121115175348im_/http://oliodigest.com/wp-content/uploads/1795038177_796bd30dac.jpg)
+[![ewok shih tzu](https://web.archive.org/web/20121115175342im_/http://oliodigest.com/wp-content/uploads/webshop_wicket-240x300.jpg)](https://web.archive.org/web/20121115175342im_/http://oliodigest.com/wp-content/uploads/webshop_wicket-240x300.jpg)
+
+****
+
 >"Have fun, kids!" Verina's mom shouts as you leave the community center to join one of the groups of children forming out front.
 >"I can't believe you talked me into this," you mutter to Verina while tugging at your tights.
 >You hate tights. You wouldn't have chosen Peter Pan if you had any say in the matter, but Veronica had you stripped and stuffed into the costume before you even knew what was happening.
