@@ -2,7 +2,8 @@
 title: "Halloween Costumes: May The Fourth Be With You"
 permalink: /202/may-the-fourth-be-with-you/
 ---
-Every Halloween we love to dress up in costumes. We go trick or treating with the kids and sometimes we include the family dog. The best dog costumes so far that I’ve seen are the Star Wars Dog Costumes. If your pet is a Shih Tzu, then a Shih Tzu Ewok costume is perfect.
+<h1>Halloween Costumes: May The Fourth Be With You</h1>
+<p>Every Halloween we love to dress up in costumes. We go trick or treating with the kids and sometimes we include the family dog. The best dog costumes so far that I’ve seen are the Star Wars Dog Costumes. If your pet is a Shih Tzu, then a Shih Tzu Ewok costume is perfect.
 
 DIY: HOW TO MAKE YOUR OWN EWOK COSTUME
 Use a teddy bear as tall as the height of your dog. Remove its face, tips of feet, and the back off. Also, remove all the stuffing except the bear’s ears and arms.
@@ -26,7 +27,7 @@ Add a leather string along the right top of side of the Ewok’s face.
 
 Ewoks originate from the Star Wars films. In the series, they are a species of teddy-bear-like hunter-gatherers that inhabit the forest moon of Endor. The Ewoks live in various tree-huts and primitive dwellings. They first appeared in the film Star Wars Episode VI: Return of the Jedi (1983). They have since featured in two made-for-television films, Caravan of Courage: An Ewok Adventure and Ewoks: The Battle for Endor, as well as an animated series and several books and games. Some fans of Star Wars say that Ewoks are silly and “ruined” the film.
 
-However, shih tzus are definitely cuter than Ewoks .
+However, shih tzus are definitely cuter than Ewoks.</p>
 [![ewok shih tzu](https://web.archive.org/web/20121115175419im_/http://oliodigest.com/wp-content/uploads/Daphne_as_an_Ewok2-533x800.jpg)](https://web.archive.org/web/20121115175419im_/http://oliodigest.com/wp-content/uploads/Daphne_as_an_Ewok2-533x800.jpg)
 
 [![ewok shih tzu](https://web.archive.org/web/20121115175407im_/http://oliodigest.com/wp-content/uploads/Daphne_as_an_Ewok3.jpg)](https://web.archive.org/web/20121115175407im_/http://oliodigest.com/wp-content/uploads/Daphne_as_an_Ewok3.jpg)

@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Drei aka Bitcoin Master"
-  avatar           : "bear.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "profilepic_200x200.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Full-time $CRYPTO Trader since 03112014. Trading Signals for Bitcoin and other Cryptocurrencies."
   location         : "13.7239978,100.5120524"
   email            :
