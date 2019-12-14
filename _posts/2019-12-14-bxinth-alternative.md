@@ -18,4 +18,4 @@ Thai crypto exchange.
 
 [![bitkub]({{ site.baseurl }}/posts-images/2019-12-14-Bitkub-Picture-1.png "bitkub")](/the-best-thai-bitcoin-crypto-exchange/)
 
-So I'm living in Thailand for more a decade now and I assure you Bitkub is your best bet. [Sign up now](/the-best-thai-bitcoin-crypto-exchange/) for 50 baht fee rebate.
+So I'm living in Thailand for more than a decade now and I assure you Bitkub is your best bet. [Sign up now](/the-best-thai-bitcoin-crypto-exchange/) for 50 baht fee rebate.
