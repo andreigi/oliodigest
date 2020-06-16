@@ -1,5 +1,5 @@
 ---
-title: "bx.in.th Alternative talaga"
+title: "bx.in.th Alternative"
 categories: [exchanges]
 header:
   teaser: /posts-images/2019-12-14-bitkub-teaser.jpg
