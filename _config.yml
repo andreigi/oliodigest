@@ -110,16 +110,16 @@ analytics:
 author:
   name             : "Drei aka Bitcoin Master"
   avatar           : "profilepic_200x200.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full-time $CRYPTO Trader since 03112014. Trading Signals for Bitcoin and other Cryptocurrencies. <a href="/go/binance/">Bina</a>"
-  location         : "13.7239978,100.5120524"
+  bio              : "Full-time Cryptocurrency Trader since 2014. Trading Signals for Bitcoin and other Cryptocurrencies."
+  location         : # "13.7239978,100.5120524"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Tradingview"
+    - label: "Link"
       icon: "fas fa-fw fa-link"
-      url: "https://www.tradingview.com/u/drei4u/"
+      # url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/drei4u"
