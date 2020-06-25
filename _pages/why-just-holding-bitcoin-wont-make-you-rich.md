@@ -64,5 +64,7 @@ well as daily and weekly futures contracts. [Bitmex](https://oliodigest.com/go/b
 Get testnet bitcoins [here](https://coinfaucet.eu/en/btc-testnet/). Note: Only through affiliate links, you can get 10% fee discount for six months, so you
 must register through this [affiliate link](https://oliodigest.com/go/bitmex/).
 
+****
+
 If you don't care about altcoins, this is the only way to make you a millionaire. Of course, before embarking on this journey, learn to trade first. Make sure you get at least
 6 out of 10 trade setups correctly before trading with real BTC. 

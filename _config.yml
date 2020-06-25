@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Drei aka Bitcoin Master"
   avatar           : "profilepic_200x200.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full-time $CRYPTO Trader since 03112014. Trading Signals for Bitcoin and other Cryptocurrencies. [Binance](https://oliodigest.com/go/binance/)"
+  bio              : "Full-time $CRYPTO Trader since 03112014. Trading Signals for Bitcoin and other Cryptocurrencies. <a href="/go/binance/">Bina</a>"
   location         : "13.7239978,100.5120524"
   email            :
   links:
