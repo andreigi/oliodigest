@@ -47,17 +47,23 @@ Bitcoin (profit from a crashing Bitcoin) by selling and buying (closing a positi
 You can easily turn your $3,000 into $15,000 in one trade setup. Thereby, reaching your 4 BTC goal faster. However, it is important to note that with the 
 leverage factor you could also increase your losses exponentially - "_With high leverage comes great responsibility_."
 
-### Best Platform to Margin Trade Bitcoin
+### Best Platforms to Margin Trade Bitcoin
 
-[Bitcoin Mercantile Exchange or BitMEX](https://oliodigest.com/go/bitmex/) for short is an advanced derivatives trading platform for cryptocurrencies. It serves as a trading platform for investors 
+**[Binance](https://oliodigest.com/go/binance/) is the largest and most user-friendly of all the cryptocurrency exchanges**. It also has the most liquid 
+orderbooks, meaning there is less slippage. If you decide to dump your bitcoins, it won't go down so far from your target sell price, the same goes for 
+buying. The site has everything, there are even tutorials for beginners, for people who have little knowledge of blockchains or even trading. I suggest you
+sign up here. Binance has spot(actually exchange your fiat to coins), margin and futures trading up to 100x. There is also a savings feature for your coins, which means you earn interest for parking 
+your crypto coins there.
+
+Furthermore you also get some exposure to alternative cryptocurrencies like Ethereum, Cardano, Litecoin, etc. You could trade them there.
+
+The following exchange used to be my top recommendation. But because of abnormal volatility and frequent outage during extremely high trading volumes, I
+placing it as my second recommendation. [Bitcoin Mercantile Exchange or BitMEX](https://oliodigest.com/go/bitmex/) for short is an advanced derivatives trading platform for cryptocurrencies. It serves as a trading platform for investors 
 to interact with global cryptocurrency markets using Bitcoin as capital. The exchange focuses on derivatives trading as it offers perpetual swap contracts as 
-well as daily and weekly futures contracts.
-
-**[Bitmex](https://oliodigest.com/go/bitmex/) by far is the most liquid and most popular platform for trading Bitcoin, Cardano, Bitcoin Cash, EOS Token, Ethereum, Tron, or Ripple.** If you don't
-care about altcoins, this is the only way to make you a millionaire. Of course, before embarking on this journey, learn to trade first. Make sure you get at least
-6 out of 10 trade setups correctly before trading with real BTC. 
-
-[Bitmex](https://oliodigest.com/go/bitmex/) also has a testnet you can practice trade on. The sandbox will provide you a testnet Bitcoin address to deposit to.
+well as daily and weekly futures contracts. [Bitmex](https://oliodigest.com/go/bitmex/) also has a testnet you can practice trade on. The sandbox will provide you a testnet Bitcoin address to deposit to.
 Get testnet bitcoins [here](https://coinfaucet.eu/en/btc-testnet/).
 
 <p class="notice--warning">Note: You can only get 10% fee discount for six months if you register through this <a href="https://oliodigest.com/go/bitmex/">affiliate link</a>.</p>
+
+If you don't care about altcoins, this is the only way to make you a millionaire. Of course, before embarking on this journey, learn to trade first. Make sure you get at least
+6 out of 10 trade setups correctly before trading with real BTC. 
