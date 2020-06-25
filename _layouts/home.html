@@ -9,8 +9,6 @@ layout: archive
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
-
-{% include paginator.html %}
       <section class="page__content" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
@@ -32,3 +30,4 @@ layout: archive
 		</div>
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+{% include paginator.html %}
