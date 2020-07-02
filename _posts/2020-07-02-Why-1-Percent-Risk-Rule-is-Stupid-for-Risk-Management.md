@@ -40,7 +40,7 @@ and what our personal risk tolerance is.
 
 _Let's assume my trading skill diminished from 85% win rate to 60%. So, it's like 2R or 66%. If I want to earn $2,000 a month at five trading sessions a week,
 I should have $4,000 profit and $2,000 loss in a month, a net of $2,000. That means $200 profit and $100 loss per trading session (could be 10 - 20 trades in 
-one day). I must maintain a margin amount that allows me a position size to achieve that goal.
+one day). I must maintain a margin amount that allows me a position size to achieve that goal_.
 
 I especially like this [article](https://www.learntotradethemarket.com/forex-articles/forex-trading-money-managment-truths-article) where Nial discussed
 **the power of Risk to Reward** and the use of fixed dollar amounts for individual trade loss.
