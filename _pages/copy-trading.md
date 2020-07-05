@@ -55,7 +55,7 @@ a higher or lower position and then closing into profit. I successfully did an e
 It is indeed profitable but because profits come in small amounts, it is not possible to sustain trading the strategy manually. You have to automate it for
 sustained profits. Thus, copy trading our master trader's bot is perfect.
 
-Now there are other winning traders in the copy trading service, you can actually browse their profiles after you sign up. I chose this traders because he's great
+Now there are other winning traders in the copy trading service, you can actually browse their profiles after you sign up. I chose this trader because he's great
 at scalping trades and currently has the lowest drawdown. If I plan to do riskier trades, I'll probably do it myself. However, I also want passive income.
 Who doesn't, right?
 
