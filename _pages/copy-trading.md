@@ -7,8 +7,9 @@ read_time: true
 comments: true
 share: true
 classes: wide
+excerpt: "Basically the copy trading platform is just a bridge for master traders and their followers."
 header:
-  teaser: /ramen.png
+  teaser: /posts-images/copy-trading-trade-history.jpg
 ---
 
 I assume you already had bitcoins for quite some time now and by holding you hope that your BTC will make you rich someday. Unless you're already rich,
