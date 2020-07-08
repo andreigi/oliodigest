@@ -14,3 +14,6 @@ What do you think? Current candle can still reverse and change color?
 
 [![confusing]({{ site.baseurl }}/posts-images/2020-07-06-heiken.png "confusing")]({{ site.baseurl }}/posts-images/2020-07-06-heiken.png)
 [![confusing]({{ site.baseurl }}/posts-images/2020-07-06-heiken2.png "confusing")]({{ site.baseurl }}/posts-images/2020-07-06-heiken2.png)
+
+Now if you want fundamental reasons why the above chart looks bullish, [Coinmarketcap](https://blog.coinmarketcap.com/2020/07/01/this-week-in-crypto-a-data-perspective-june-29-july-3-2/) 
+has summarized several reasons why. Do check it out.
