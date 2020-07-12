@@ -4,6 +4,7 @@ categories: [trading, technical-analysis]
 tags: [bitcoin]
 header:
   teaser: /posts-images/2020-07-06-heiken2.png
+classes: default
 ---
 
 If you look at the three-month charts of Bitcoin in heiken ashi, you would say it is looking bullish. What are the odds that the July-September candle becomes
