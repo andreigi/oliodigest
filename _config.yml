@@ -245,7 +245,12 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      classes: wide  
 # Sass/SCSS
 sass:
   sass_dir: _sass

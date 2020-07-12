@@ -6,7 +6,6 @@ author_profile: true
 read_time: true
 comments: true
 share: true
-classes: wide
 excerpt: "Basically the copy trading platform is just a bridge for master traders and their followers."
 header:
   teaser: /posts-images/copy-trading-trade-history.jpg

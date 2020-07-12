@@ -2,6 +2,7 @@
 title: "Calamondin: The Miniature Orange"
 layout: single
 permalink: /calamondin/
+classes: default
 excerpt: "Kumquats are not calamondins"
 toc: true
 read_time: true
