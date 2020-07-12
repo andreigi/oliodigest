@@ -43,8 +43,10 @@ layout: default
               <ul class="toc__menu">
 				<li><a href="/why-just-holding-bitcoin-wont-make-you-rich/">Why Just Holding Bitcoin Won’t Make You Rich</a></li>
 			  </ul>
-            </nav>   --> 		  
-            <nav class="toc" <!--style="margin-top: 5px;"-->>
+            </nav>    		  
+            <nav class="toc" style="margin-top: 5px;">
+-->	
+			<nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label }}</h4></header>
               {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
             </nav>

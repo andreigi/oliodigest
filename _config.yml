@@ -136,12 +136,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Copy my trades for free"
-      icon: "fa fa-rocket"
-      url: "/copy-my-trades/" 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/drei4u"
+    - label: "Copy my trades for free"
+      icon: "fa fa-rocket"
+      url: "/copy-my-trades/" 	  
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
