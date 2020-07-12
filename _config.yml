@@ -236,6 +236,7 @@ defaults:
       comments: true
       share: true
       related: true
+	  classes: wide
   # _replies
   - scope:
       path: ""
