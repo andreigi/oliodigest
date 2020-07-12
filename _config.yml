@@ -230,13 +230,12 @@ defaults:
       type: posts
     values:
       layout: single
-    # toc: true
+      classes: wide
       author_profile: true 
       read_time: true
       comments: true
       share: true
       related: true
-	  classes: wide
   # _replies
   - scope:
       path: ""
