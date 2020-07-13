@@ -19,6 +19,8 @@ is for entertainment purposes only. [@CryptoCred](https://twitter.com/CryptoCred
 
 [Lesson 5: Horizontal Support/Resistance Levels](https://youtu.be/azB9Q_9MYsI)
 
+[Free Bitcoin copy trading, anyone?](/copy-my-trades/){: .btn .btn--success} 
+
 [Lesson 6: Fibonacci](https://youtu.be/27scZH3vBLk)
 
 [Lesson 7: Relative Strength Index (RSI)](https://youtu.be/HOIucvo-9s0)
