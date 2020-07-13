@@ -45,6 +45,8 @@ one day). I must maintain a margin amount that allows me a position size to achi
 I especially like this [article](https://www.learntotradethemarket.com/forex-articles/forex-trading-money-managment-truths-article) where Nial discussed
 **the power of Risk to Reward** and the use of fixed dollar amounts for individual trade loss.
 
+If you are still just holding your bitcoins, that is not a path to becoming a millionaire, this [article](/why-just-holding-bitcoin-wont-make-you-rich/) explains why.
+
 ****
 
 Finally I like to take note what crypto Twitter has been espousing for several years now. CT has been saying that high leverage is dangerous and should be 

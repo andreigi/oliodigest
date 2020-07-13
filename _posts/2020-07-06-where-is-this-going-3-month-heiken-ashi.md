@@ -14,3 +14,5 @@ What do you think? Current candle can still reverse and change color?
 
 [![confusing]({{ site.baseurl }}/posts-images/2020-07-06-heiken.png "confusing")]({{ site.baseurl }}/posts-images/2020-07-06-heiken.png)
 [![confusing]({{ site.baseurl }}/posts-images/2020-07-06-heiken2.png "confusing")]({{ site.baseurl }}/posts-images/2020-07-06-heiken2.png)
+
+By the way, are you interested in [free social trading for bitcoin](/copy-my-trades/)?

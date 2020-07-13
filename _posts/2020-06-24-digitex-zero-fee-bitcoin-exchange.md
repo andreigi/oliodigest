@@ -20,7 +20,9 @@ volatility.
 At first impression, I wondered how does one place an order, there was no usual buy/sell buttons to use. It was before I knew that ladder ordering feature. 
 I have been trading on countless number of exchanges. It is certainly one of its kind. I figured out how to use it in the end. The default placement of the 
 chart in the interface layout is weird. Usually exchanges put the chart on the top left of the interface. Anyway, you can easily change the layout with a click 
-on the gear button. 
+on the gear button.
+
+[Interested in free bitcoin mirror trading?](/copy-my-trades/){: .btn .btn--success} 
 
 One thing I don't like is the $5 increments in the ladder ordering system. Exchanges usually allow to a dollar or even to 50 US cents. I don't like it 
 especially when you trade the 1-minute charts and also when there is low volatility, it's very hard to profit quickly since it will take time before your order

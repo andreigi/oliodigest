@@ -58,4 +58,4 @@ the defaults could ever be. - [proofofresearch](https://steemit.com/bitcoin/@pro
 
 Another thing, if the chart you are using doesn’t have Ichimoku, try experimenting with Bollinger Bands, they work almost the same.
 
-
+Now if you're like me where you trade cryptocurrencies or bitcoin for a living, Ichimoku is a perfect indicator for [Bitcoin Leverage Trading](/why-just-holding-bitcoin-wont-make-you-rich/).

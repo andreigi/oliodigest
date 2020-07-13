@@ -12,3 +12,5 @@ actually inversed so they all would become uniformed.
 The way I see it, it's like a continuous dump or pump and then a period of sideways movement and then finally one last dump or pump before reversing.
 
 [![Whale action]({{ site.baseurl }}/posts-images/dump-study.png "Whale action")]({{ site.baseurl }}/posts-images/dump-study.png)
+
+I know of a pro trader who can masterfully trade this price action, his trade history can be found [here](/copy-my-trades/).
