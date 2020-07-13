@@ -15,7 +15,7 @@ I assume you already had bitcoins for quite some time now and by holding you hop
 hodling bitcoin won't make you wealthy the way you want to be - hookers and blow, lambos and all. This [article](/why-just-holding-bitcoin-wont-make-you-rich/)
 explains why you should be margin trading your stack of bitcoins.
 
-Anyway, you came here to find out **"how to copy bitcoin trades from master traders for free"**. Just like you I hate those paid signal groups which often dupe
+Anyway, you came here to find out **"how to copy bitcoin trades from master traders for free."** Just like you I hate those paid signal groups which often dupe
 people into buying worthless lifetime subscription or copy trading service that either charge you subscription fees yet the master trader sucks. Or maybe you
 experience a low-fee subscription mirror trading service but you have to deposit large funds (smells like a future exit scam in the making).
 
