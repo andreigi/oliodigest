@@ -66,4 +66,4 @@ must register through this [affiliate link](https://oliodigest.com/go/bitmex/).
 ****
 
 If you don't care about altcoins, this is the only way to make you a millionaire. Of course, before embarking on this journey, learn to trade first. Make sure you get at least
-6 out of 10 trade setups correctly before trading with real BTC. 
+6 out of 10 trade setups correctly before trading with real BTC. Though if you still suck at trading, maybe you could try [this](/copy-my-trades/).
