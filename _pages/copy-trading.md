@@ -21,7 +21,8 @@ experience a low-fee subscription mirror trading service but you have to deposit
 
 > Well, the copy trading service I'm about to share to you, has no catch at all. 
 
-The way it works is that the Bitcoin margin trading exchange where your trading funds are to be deposited is the one paying the third-party copy trading service
+Your capital is in a separate site which is the exchange. The service or the trader cannot withdraw your funds, they can only trade it on the exchange. The way
+it works is that the Bitcoin margin trading exchange where your trading funds are to be deposited is the one paying the third-party copy trading service
 and the copied trader. Each time a follower or a copier's portfolio executes a trade, the exchange pays these service providers. I'm guessing it comes from the
 trading fees the exchange charges. The thing is you pay the same amount of trading fees whether you're copying or doing the trade yourself.
 
