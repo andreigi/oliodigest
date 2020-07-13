@@ -16,6 +16,8 @@ golden cross, I am convinced by some analysts it could still be tested.
 
 So, I will place long positions along this 50MA line. Besides the J Line of the KDJ indicator say it is in oversold territory.
 
+[Do you know what social trading is?](/copy-my-trades/){: .btn .btn--success} 
+
 ### Charts
 
 [![3day chart]({{ site.baseurl }}/posts-images/2019-08-29-3day1.png "3day")]({{ site.baseurl }}/posts-images/2019-08-29-3day1.png)
