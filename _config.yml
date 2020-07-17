@@ -125,7 +125,7 @@ author:
       url: "https://twitter.com/drei4u"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://fb.me/drei4u/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -144,7 +144,10 @@ footer:
       url: "/copy-my-trades/" 	  
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://fb.me/drei4u/"	  
+    - label: "Privacy Policy"
+      icon: "fa fa-user-secret"
+      url: "/privacy-policy/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
