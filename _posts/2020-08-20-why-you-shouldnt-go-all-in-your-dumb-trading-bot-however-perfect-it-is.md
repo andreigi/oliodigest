@@ -15,7 +15,7 @@ ten years of trading experience. In which right now I don't believe it anymore s
 ![trading bot]({{ site.baseurl }}/posts-images/crypto-currency-trading-bots.jpg "trading bot")
 
 I knew how his bot works. The bot does dollar-cost-averaging when micro-market trends go against the initial position. It then thus adjusts the open position into
-to a higher or lower position and then it becomes possible to close into profit when the trade goes for its direction. I successfully did an experiment with 
+a higher or lower position and then it becomes possible to close into profit when the trade goes for its direction. I successfully did an experiment with 
 this technique in Bitmex (see pic below).
 
 [![trade history sample]({{ site.baseurl }}/posts-images/trade-history-sample.jpg "trade history sample")]({{ site.baseurl }}/posts-images/trade-history-sample.jpg)
@@ -38,8 +38,8 @@ in fading or shorting.
 
 He made three mistakes:
 1. His technical analysis if it even existed is wrong. The Bitcoin market at that time is leaning bullish.
-2. He doesn't set predetermined stop losses. This more akin to gambling. There is always a price level where you will always know that you're in the wrong.
-3. Risking everything all for a perfect record.
+2. He doesn't set predetermined stop losses. This is more akin to gambling. There is always a price level where you will always know that you're in the wrong because you happen to know how to do decent TA.
+3. Risking everything - all for a perfect record.
 
 If you want to see the whole trade history, you can download the screenshots [here](/posts-images/failedbot.zip).
 
