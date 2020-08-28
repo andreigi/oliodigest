@@ -8,7 +8,7 @@ comments: true
 share: true
 excerpt: "Basically the copy trading platform is just a bridge for master traders and their followers."
 header:
-  teaser: /posts-images/copy-trading-trade-history.jpg
+  teaser: /posts-images/copytrading.jpg
 ---
 
 I assume you already had bitcoins for quite some time now and by holding you hope that your BTC will make you rich someday. Unless you're already rich,
@@ -18,6 +18,8 @@ explains why you should be margin trading your stack of bitcoins.
 Anyway, you came here to find out **"how to copy bitcoin trades from master traders for free."** Just like you I hate those paid signal groups which often dupe
 people into buying worthless lifetime subscription or copy trading service that either charge you subscription fees yet the master trader sucks. Or maybe you
 experience a low-fee subscription mirror trading service but you have to deposit large funds (smells like a future exit scam in the making).
+
+![copytrading]({{ site.baseurl }}/posts-images/copytrading.jpg "copytrading")
 
 > Well, the copy trading service I'm about to share to you, has no catch at all. 
 
@@ -41,29 +43,17 @@ trader's trades.
 
 Inside the platform, there is a PDF file where you can follow instructions in order to start the copy trading.
 
-### Word about our master trader
+### Which Master Trader to follow?
 
-Our master trader is currently the number one trader in the rankings. He uses his own bots with some manual oversight. He states he has ten years of trading 
-experience. You don't have to believe his word. The following is his trading history in the copy trading platform.
+Now there are several winning traders in the copy trading service, you can actually browse their profiles after you sign up. My advice to you is to choose the
+trader with one of the lowest drawdown that's real. What do I mean real? I'm talking about traders who don't risk a large percentage of their recommended margin
+by holding already large losses in their active positions. Remember "Let your winners run and cut your losses early"? You can always check out a traders'
+current unrealised Profit and Loss in the platform.
 
-[![trade history]({{ site.baseurl }}/posts-images/copy-trading-trade-history.jpg "trade history")]({{ site.baseurl }}/copy-trading-platform/)
+### What about me?
 
-I believe I understand how his bot works. I think it does dollar-cost-averaging when micro-market trends go against the initial position. Thereby adjusting to 
-a higher or lower position and then closing into profit. I successfully did an experiment with this in Bitmex (see pic below).
-
-[![trade history sample]({{ site.baseurl }}/posts-images/trade-history-sample.jpg "trade history sample")]({{ site.baseurl }}/posts-images/trade-history-sample.jpg)
-
-It is indeed profitable but because profits come in small amounts, it is not possible to sustain trading the strategy manually. You have to automate it for
-sustained profits. Thus, copy trading our master trader's bot is perfect.
-
-Now there are other winning traders in the copy trading service, you can actually browse their profiles after you sign up. I chose this trader because he's great
-at scalping trades and currently has the lowest drawdown. If I plan to do riskier trades, I'll probably do it myself. However, I also want passive income.
-Who doesn't, right?
-
-### Why am I not sharing my own trades?
-
-I actually plan to share my own trades but since I'm relatively new to this service, I have no trade history to brag about except my Twitter calls. In fact,
-if you do some browsing at the platform's trader ranking, I'm there. I have yet to build up a trade history so expect it later.
+I will announce on Twitter when I'm actively margin trading Bitcoin and whenever I go on a break so you can follow other traders. Also since I'm relatively
+new to this service, I have no trade history to brag about except my Twitter calls. I have yet to build up a trade history so expect it later.
 
 ****
 
