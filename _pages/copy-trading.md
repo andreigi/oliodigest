@@ -47,7 +47,7 @@ Inside the platform, there is a PDF file where you can follow instructions in or
 
 Now there are several winning traders in the copy trading service, you can actually browse their profiles after you sign up. My advice to you is to choose the
 trader with one of the lowest drawdown that's real. What do I mean real? I'm talking about traders who don't risk a large percentage of their recommended margin
-by holding already large losses in their active positions. Remember "Let your winners run and cut your losses early"? You can always check out a traders'
+by holding already large losses in their active positions. Remember "Let your winners run and cut your losses early." You can always check out a traders'
 current unrealised Profit and Loss in the platform.
 
 ### What about me?
