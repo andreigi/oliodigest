@@ -61,4 +61,9 @@ bot is already countertrading me several times.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">That&#39;s three times the bot&#39;s countertrading me.</p>&mdash; Bitcoin Master (@drei4u) <a href="https://twitter.com/drei4u/status/1286347846015504389?ref_src=twsrc%5Etfw">July 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">OMG <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> might marubozu all the way to 10k. My poor shorting auto trading bot.</p>&mdash; Bitcoin Master (@drei4u) <a href="https://twitter.com/drei4u/status/1286346377732268032?ref_src=twsrc%5Etfw">July 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I am sorry for those I led to believe that this bot is perfect, but you should never put all your eggs in one basket. 
+I am sorry for those I led to believe that this bot is perfect, but in everything related to trading and investing, you should never put all your eggs in one
+basket. Because no one is infallible. Trading/investing is survival or capital preservation first and foremost. Sigh, it was good while it lasted.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;d modify your write-up. That dipshit running the bot basically got everyone liquidated today except himself cos he posted more collateral. He finally got liquidated himself just now @ $11.2k. DCA&#39;d a massive hole he couldnt get out of, leveraged to the eyeballs. Fucking REKT! <a href="https://t.co/9e0ecsl8jo">pic.twitter.com/9e0ecsl8jo</a></p>&mdash; ₿OOKΞR (@bhook3r) <a href="https://twitter.com/bhook3r/status/1287875098372739072?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Yes, re-wrote the write-up about copy trading, I'll most likely just promote my own trades from now on.
