@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin might break All-Time-High price before year ends"
 categories: [trading, technical-analysis]
-tags: [bitcoin]
+tags: [bitcoin, success]
 header:
   teaser: /posts-images/2020-11-18-3month.png
 ---

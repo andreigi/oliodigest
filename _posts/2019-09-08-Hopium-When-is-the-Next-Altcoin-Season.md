@@ -1,6 +1,7 @@
 ---
 title: "Hopium: When is the Next Altcoin Season?"
 categories: [trading, altcoins, technical-analysis]
+tags: [fail]
 header:
   teaser: /posts-images/2019-09-08-altcoin-death.jpg
 ---

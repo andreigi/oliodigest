@@ -1,7 +1,7 @@
 ---
 title: "Where is this going? Three-month Heiken Ashi Bitcoin charts"
 categories: [trading, technical-analysis]
-tags: [bitcoin]
+tags: [bitcoin, success]
 header:
   teaser: /posts-images/2020-07-06-heiken2.png
 ---

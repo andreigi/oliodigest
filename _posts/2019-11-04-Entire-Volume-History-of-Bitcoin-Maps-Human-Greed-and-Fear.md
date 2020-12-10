@@ -1,7 +1,7 @@
 ---
 title: "Entire Volume History of Bitcoin Maps Human Greed and Fear"
 categories: [trading, technical-analysis]
-tags: [bitcoin]
+tags: [bitcoin, fail]
 header:
   teaser: /posts-images/2019-11-04-bitcoin-price-volume-through-the-years.png
 ---
