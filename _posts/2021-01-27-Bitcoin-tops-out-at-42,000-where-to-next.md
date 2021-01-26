@@ -33,7 +33,7 @@ another dump or not. It could be the bull trap or not.
 [![wow]({{ site.baseurl }}/posts-images/2021-01-27-scenario-b.png "wow")]({{ site.baseurl }}/posts-images/2021-01-27-scenario-b.png)
 
 Now in the above chart, this is the prediction of many celebrity crypto Twitter influencers - that the price will crash to $27,000 level before the ultimate 
-bounce back to bullishness. This chart sees $36k to $38k as the target. The falling wedge pattern is a bullish pattern.
+bounce back to bullishness. This chart sees $34k to $36k as the target. The falling wedge pattern is a bullish pattern.
 
 However, I see a problem with this $27k prediction. It would mean that the current monthly and three month candlestick would look like shit and a gravestone 
 doji, which is a very bearish signal on a high timeframe, will signal an end to the brief bull market. Unless of course, the price will stay down briefly
