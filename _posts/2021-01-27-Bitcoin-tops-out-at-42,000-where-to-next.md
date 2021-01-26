@@ -39,7 +39,7 @@ However, I see a problem with this $27k prediction. It would mean that the curre
 doji, which is a very bearish signal on a high timeframe, will signal an end to the brief bull market. Unless of course, the price will stay down briefly
 under $29,000 before February comes and when April comes. 
 
-![Gravestone]([https://i.imgur.com/2y7kMjV.png "gravestone doji")
+![Gravestone](https://i.imgur.com/2y7kMjV.png "gravestone doji")
 
 **Price cannot go under $29,000**
 
