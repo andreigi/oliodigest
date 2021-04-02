@@ -3,7 +3,7 @@ title: "All Bitcoin Daily descending wedges before February 22 2021 - only one f
 categories: [trading, technical-analysis]
 tags: [bitcoin]
 header:
-  teaser: https://pbs.twimg.com/card_img/1366061958256939012/c-QdJdmO?format=jpg&name=600x314
+  teaser: /posts-images/2021-03-02-falling-wedge.jpg
 ---
 
 I had nothing to do so I reviewed EVERY descending wedge in bitcoin's daily price action history. Only one broke down. 

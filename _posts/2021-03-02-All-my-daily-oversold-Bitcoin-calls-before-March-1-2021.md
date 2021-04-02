@@ -3,7 +3,7 @@ title: "All my daily oversold Bitcoin calls before March 1, 2021 - only one fail
 categories: [trading, technical-analysis]
 tags: [bitcoin, success]
 header:
-  teaser: https://pbs.twimg.com/card_img/1366082356537221128/HnyIfBAL?format=jpg&name=600x314
+  teaser: /posts-images/2021-03-02-daily-oversold.jpg
 ---
 
 Regarding me saying that the daily Bitcoin chart is uber oversold and due for a bounce, I charted every Twitter call I made with similar theme from the 
