@@ -11,7 +11,7 @@ the extremely dangerous Martingale strategy.
 
 ### Martingale - All or nothing and all risk
 
-**I never learned my lesson**. I'm always falling into the same Martingale trap after so many failed Martingale set-ups. The first time was the gambling joint 
+**I never learned my lesson**. I'm always falling into the same Martingale trap after so many failed Martingale set-ups. The first time was a gambling joint 
 in Makati Avenue where I used my father's money to bet in a clandestine casino. Jeez, it should have been enough of a lesson. The second time is JustDice with 
 small amounts; the third is Bustabit (I lost 2 btc here, but a bitcoin was less than $300 then). And now with Bybit derivative exchange!
 
@@ -36,5 +36,7 @@ The post has links to more articles on the subject.
 ### Other observations
 
 Being liquidated after so many years since the last time reminded me that _knife catching is a riskier proposition than following the trend_.
+
+[![martingale]({{ site.baseurl }}/posts-images/2021-04-03-martingale-fail.jpg "no winning")]({{ site.baseurl }}/posts-images/2021-04-03-martingale-fail.jpg)
 
 Also I learned with intensity that KDJ indicators can have prolonged oversold/overbought conditions. The secret lies in the pattern and not the numerical value.
