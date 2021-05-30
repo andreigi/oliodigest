@@ -41,7 +41,7 @@ indeed looking at the wrong charts.
 
 The other 60% of crypto have their own trends. So, to gauge market health of crypto, you really need to check the chart of all coins, rather than individual
 coin charts. 
-----
+****
 ### So, what does the totalcap charts tell us? Are we still in a bull market?
 
 Here you can see that Bitcoin is in the beginning of a bear trend after several months.
@@ -67,5 +67,8 @@ Bitcoin's price is trading under the 200-day moving average in the daily
 
 While the total market cap's daily is more bullish at 7% higher than 200MA...
 [![bitcoin]({{ site.baseurl }}/posts-images/2021-05-29-totalma.png "more eth trading")]({{ site.baseurl }}/posts-images/2021-05-29-totalma.png)
+
+Also, the previous bull cycle of the total market cap had 45% and 48% price declines, while the recent one is 50% which is not far off the typical. Bitcoin's
+price decline in the previous bull market was obviously lower than the current price decline.
 
 In summary, we should always check TA of total coin marketcap because Bitcoin is slowly becoming old and obsolete.
