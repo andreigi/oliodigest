@@ -29,10 +29,15 @@ All the same, even if there was no market crash, I still  wouldn't touch the coi
 
 ### What has change, what hasn't change
 
-We still don't plan to exit crypto. We will hodl BTC, ETH until an obvious market top around $100k region **even if it take another 2 - 3 years**.
+We still don't plan to exit crypto. We will hodl BTC, ETH until an obvious market top around $100k region **even if it takes another 2 - 3 years**.
 
 Never mind if the value of your portfolio was halfed, you won't exchange for fiat anyway until of course mewn. If this June, we enter into a full blown
 bear market. It's oke. We just try our best to profit from trading. It doesn't matter if bear or bull, **as long as there is volatility of a thousand dollars**.
 We can be rich by doing intraday trading Bitcoin.
+
+For a real trader, they don't care what the market direction is, crashing or pumping, as long as the price is moving! Volatility is a trader's best friend, up or
+down. Your portfolio or "long term holds" is a bet or "investment" that you hope will rally many times over in the future. In which you will have to take 
+profit in order to benefit from it. Otherwise it's just numbers. If you don't believe crypto or Bitcoin has future gains anymore, you get out, realize 
+everything. 
 
 Don't be sad, just man up, have guts and do some margin trading!
