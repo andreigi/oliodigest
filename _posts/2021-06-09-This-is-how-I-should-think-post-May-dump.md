@@ -10,7 +10,7 @@ I would be so happy with gradual climbs.  I'm still up 5x by the way. I still re
 I said, "Naah, tomorrow will be okay." Tomorrow came and the price crashed. It crashed but not so bad and I was busy away from the keyboard. I cannot trade 
 because of other concerns. I said, "next daily cycle."
 
-And then Bitcoin price decline by half. I missed a chance to sell all my bitcoins again. I planned to sell all my bitcoins whenever there is a correction. But
+And then Bitcoin price declined by half. I missed a chance to sell all my bitcoins again. I planned to sell all my bitcoins whenever there is a correction. But
 I lack the guts to trade large sums of my coins.
 
 For the most part of the last two years, I wasn't trading my entire stack. In fact they are all in cold wallets. I was a hodler. Anyway, I am pissed at myself.
@@ -25,13 +25,13 @@ the medical procedure.
 Anyway, the funny thing is: I am upset because of losses I can't see or feel. The coins were just in storage, not making money or not being used for trading. I 
 don't physically feel the loss. It is because I don't use it or do I plan to spend it.
 
-All the same, even if there was no market crash, I still  wouldn't touch the coins unless we reach the desired price.
+All the same, even if there was no market crash, I still wouldn't touch the coins unless we reach the desired price.
 
 ### What has change, what hasn't change
 
 I still don't plan to exit crypto. I will hodl BTC, ETH until an obvious market top around $100k region **even if it takes another 2 - 3 years**.
 
-Never mind if the value of your portfolio was halfed, you won't exchange for fiat anyway until of course mewn. If this June, we enter into a full blown
+Never mind if the value of your portfolio was halved, you won't exchange for fiat anyway until of course mewn. If this June, we enter into a full blown
 bear market. It's oke. We just try our best to profit from trading. It doesn't matter if bear or bull, **as long as there is volatility of a thousand dollars**.
 We can be rich by doing intraday trading Bitcoin.
 
@@ -42,5 +42,5 @@ everything.
 
 Don't be sad, just man up, have guts and do some margin trading!
 
-Actually, you just need to make at least 34Gs or 12.5% to fund your current goals. In fact, you used to do 2Xs minimum in altcoin trading. 12 percent is easy
-in an altcoin pump. Do what you do best and spot the trending coins. 
+Actually, you just need to make at least 38Gs, 13.5%, or about 1 BTC to fund your current goals. In fact, you used to do 2Xs minimum in altcoin trading. 13 percent is easy
+in an altcoin pump. Do what you do best and spot the trending coins. Also, always practice making 500 pips minimum per trade and record bad/good DCA ratios.
