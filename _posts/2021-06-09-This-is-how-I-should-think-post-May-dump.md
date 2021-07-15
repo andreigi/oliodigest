@@ -23,7 +23,7 @@ Another pressure for me is needing some capital for another round of IVF for my 
 the medical procedure.
 
 Anyway, the funny thing is: I am upset because of losses I can't see or feel. The coins were just in storage, not making money or not being used for trading. I 
-don't physically feel the loss. It is because I don't use it or do I plan to spend it.
+don't physically feel the loss. It is because I don't use it **or do I plan to spend it**.
 
 All the same, even if there was no market crash, I still wouldn't touch the coins unless we reach the desired price.
 
@@ -42,5 +42,5 @@ everything.
 
 Don't be sad, just man up, have guts and do some margin trading!
 
-Actually, you just need to make at least 38Gs, 13.5%, or about 1 BTC to fund your current goals. In fact, you used to do 2Xs minimum in altcoin trading. 13 percent is easy
+Actually, you just need to make at least 40Gs, 15%, or about 1.277 BTC to fund your current goals. In fact, you used to do 2Xs minimum in altcoin trading. 15 percent is easy
 in an altcoin pump. Do what you do best and spot the trending coins. Also, always practice making 500 pips minimum per trade and record bad/good DCA ratios.
