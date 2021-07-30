@@ -1,6 +1,7 @@
 ---
 title: "More mark differences between Bitcoin and total market capitalization of all crypto"
-categories: [trading, bitcoin]
+categories: [trading, technical-analysis]
+tags: [bitcoin]
 header:
   teaser: /posts-images/2021-06-02-2week.png
 ---

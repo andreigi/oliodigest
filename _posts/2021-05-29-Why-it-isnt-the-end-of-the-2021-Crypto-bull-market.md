@@ -1,6 +1,7 @@
 ---
 title: "Why it isn't the end of the 2021 Crypto bull market"
-categories: [trading, bitcoin]
+categories: [trading, technical-analysis]
+tags: [bitcoin]
 header:
   teaser: /posts-images/2021-05-29-bear.jpg
 ---
