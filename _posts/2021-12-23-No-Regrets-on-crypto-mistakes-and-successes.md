@@ -9,6 +9,7 @@ I think I got it wrong. I think I should really be grateful for crypto. Yes, it 
 opportunities, and I could have had millions of dollars by now.
 
 [![James Howells]({{ site.baseurl }}/posts-images/james-howells.png "unlucky dude")]({{ site.baseurl }}/posts-images/james-howells.png)
+
 _James Howells threw his hard disk containing 7,500 bitcoins in the dump, thinking they are worthless. Be glad you are not in the same situation as him_.
 
 You know, in crypto you can never really be satisfied. Why? Because I had many regrets. I regret selling too early my stacks of Ethereum, NEO (Antshares), 
