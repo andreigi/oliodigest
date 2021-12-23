@@ -19,7 +19,7 @@ I have in my possession.
 You can never be satisfied with your crypto trading. You will regret selling too early, regret selling too late. Though come to think of it, nobody can truly
 sell or buy crypto at the right time.
 
-The only thing I can think about is really how lucky I am. I didn't lose any actual capital. 90% of the tokens I hold comes from bounties, airdrop,or mining; not 
+The only thing I can think about is really how lucky I am. I didn't lose any actual capital. 90% of the tokens I hold comes from bounties, airdrop, or mining; not 
 from purchases.
 
 I remember investing around 600 US dollars.... That's it, out of that came hundreds of thousands.
