@@ -19,19 +19,19 @@ I have in my possession.
 You can never be satisfied with your crypto trading. You will regret selling too early, regret selling too late. Though come to think of it, nobody can truly
 sell or buy crypto at the right time.
 
-The only thing I can think about is really how lucky I am. I didn't lose any actual capital. 90% of the tokens I hold comes from bounties, airdrop, or mining; not 
-from purchases.
+The only takeaway I can think about all of this is realizing how truly lucky I really am. I didn't lose any actual capital. 90% of the tokens I hold comes from 
+bounties, airdrop, or mining; not from purchases (NEO was the last purchase).
 
 I remember investing around 600 US dollars.... That's it, out of that came hundreds of thousands.
 
 At first look, you have now a garbage collection of tokens. Buuuut that's the problem... You see it as a negative (the trash tokens). You shouldn't; because out
-of the many trash tokens you have, you had hidden gems. You sold Dent which you had used for an expensive IVF procedure (An amount that will take two years of 
-saving). You made eight years worth of salary in ETH from the thing you did in 2017. And some of your tokens may still turn out to be a sleeper. All that "hard
-work" in 2017 paid off well with your ETH. Forget the others, although some still have moderately huge value. 
+of the many trash tokens you have, you had hidden gems. You sold Dent which you had used for an expensive IVF procedure (an amount that will at least take two 
+years of saving). You made eight years worth of salary in ETH from the thing you did in 2017. And some of your tokens may still turn out to be a sleeper. All 
+that "hard work" in 2017 paid off well with just your ETH rewards. Forget the others, although some still have moderately huge value. 
 
-Believe me when I say there is no amount of freelancing that could net you the amount you made in crypto in a year's time. Count your blessings, you still got 
-lucky, no regrets.
+You can't win them all but believe me when I say there is no amount of freelancing work that could net you the amount you made in crypto in a year's time. I 
+chose the right path. Count your blessings, you still got lucky, no regrets.
 
 P.S.
-Remember that Bitfinex hack where in a case of bad timing, you sent all your Bitcoin to trade Monero? You get to rebuild even with the haircut refund. I 
-remember it was the worst of times, where I was considering to quit.
+Remember that Bitfinex hack where in a case of bad timing, you sent all your Bitcoin to trade Monero? You were lucky that you get to rebuild even with the 
+haircut refund. I remember it was the worst of times, where I was considering to quit.
