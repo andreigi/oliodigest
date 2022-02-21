@@ -1,6 +1,6 @@
 ---
 title: "You need a shot of Hopium"
-categories: [blockchain, ideas, markets]
+categories: [blockchain]
 header:
   teaser: /posts-images/krungsri-blockchain-1.jpg
 ---
