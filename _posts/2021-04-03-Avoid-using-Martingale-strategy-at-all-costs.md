@@ -28,6 +28,8 @@ realize small losses and instead increase potentially much bigger losses.
 Regarding dollar-cost-averaging strategy (DCA), it is different from Martingale because with DCA, you already have preset conditions to buy and buy more at a lower 
 level - unlike Martingale which is doubling every position exponentially.
 
+[Don't do it! Martingale system will rekt you. Why not try free Bitcoin copy trading?](/copy-my-trades/){: .btn .btn--success} 
+
 By the way, some of the [ideas written here](https://oliodigest.com/trading/altcoins/Risk-Management-for-Altcoin-Trading/) is obsolete. Times and strategies change.
 
 The [risk-to-reward ratio strategy written here](https://oliodigest.com/trading/risk-management/Why-1-Percent-Risk-Rule-is-Stupid-for-Risk-Management/) is definitely a superior strategy.

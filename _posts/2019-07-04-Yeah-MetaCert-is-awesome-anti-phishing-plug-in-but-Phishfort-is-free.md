@@ -12,6 +12,8 @@ I used to have MetaCert’s CRYPTONITE installed in my browser and it worked gre
 You can’t assume that your old bookmark is still a valid one; hackers and phishers are very creative. Maybe one day, you clicked on that saved link and 
 you get unsuspectingly re-directed to a phishing site and then poof your Bitcoin is gone.
 
+[Dude, free money here](/copy-my-trades/){: .btn .btn--success} 
+
 That’s why it is vital that for every crypto-related site you visit, you make sure it’s the real one. MetaCert also protects MyEtherwallet (MEW), Coinbase,
 Bittrex, Poloniex, Bitfinex, Binance, etc – all the known crypto sites.
 

@@ -44,6 +44,8 @@ traders who were mainly responsible since Bitcoin margin trading was still large
 
 Why during an uptrend? I'm guessing it's new money, new believers wanting a repeat of Bitcoin's phenomenal rise.
 
+[Instead of waiting for altcoin season, try free Bitcoin copy trading](/copy-my-trades/){: .btn .btn--success} 
+
 I'm thinking around October 2019 to January 2020, a new altcoin season may start. **But only if Bitcoin starts to break $14,000 resistance levels or maintain
 this price as a support level after breaking it.**
 

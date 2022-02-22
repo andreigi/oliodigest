@@ -36,6 +36,8 @@ liquidate.
 So basically, I think the bot is fine. It is the manual oversight that was the problem. The trader was bearish on the macro view so he was more confident
 in fading or shorting.
 
+[Best to copy real traders. You can do it here for free](/copy-my-trades/){: .btn .btn--success} 
+
 He made three mistakes:
 1. His technical analysis if it even existed is wrong. The Bitcoin market at that time is leaning bullish.
 2. He doesn't set predetermined stop losses. This is more akin to gambling. There is always a price level where you will always know that you're in the wrong because you happen to know how to do decent TA.
