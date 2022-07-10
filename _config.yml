@@ -108,9 +108,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Drei aka Bitcoin Master"
-  avatar           : "profilepic_200x200.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full-time Cryptocurrency Trader since 2014. Trading Signals for Bitcoin and other Cryptocurrencies."
+  name             : "Andrei Tavanlar"
+  avatar           : "profilepic2_200x200.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Filipino Crypto Influencer Trader since 2014 - NFT, Web3, Defi. Trading Signals for Bitcoin and other Cryptocurrencies."
   location         : # "13.7239978,100.5120524"
   email            :
   links:
