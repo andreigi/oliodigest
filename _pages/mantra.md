@@ -12,7 +12,8 @@ header:
 ---
 
 Web3 is the future or something like it. Crypto will be ubiquitous because we do everything online nowadays. 
-[Tweet source](https://twitter.com/vaynernft/status/1537138216679227393/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">4/ Our CEO <a href="https://twitter.com/garyvee?ref_src=twsrc%5Etfw">@garyvee</a> recently stated, “the ‘consumer blockchain’ will be the single biggest technological shift since the invention of the internet.” 💡<br><br>The Web3 genie is out of the bottle, and while this technology will adapt over time, there’s no going backwards 🧞➡️</p>&mdash; Vayner3 (@Vayner3) <a href="https://twitter.com/Vayner3/status/1537138220701564929?ref_src=twsrc%5Etfw">June 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 BTC went from sub $1 to $69k and is now at $18k. It crashed as often as it has had bull markets, Why are people even in this space when they think it'll go to zero the moment we enter a recession? Regarding full-blown bear market, it’s oke. It's cyclical, there will be another bull market phase.The question is always - when?
 
@@ -31,6 +32,9 @@ Don’t be sad, just man up, have guts and do some margin trading! We just try o
 And you can still bring back the Mintpal/Poloniex days of glorious altcoin trading, it’s a skill you never lost. Just do it again. And do it fast in time for Bitcoin’s next bullrun. Do what you do best and spot the trending coins.
  
 Actually, you just need to make at least $40,000, 26%, or about 2.22 BTC to fund your current goals. In fact, you used to do 2Xs minimum in altcoin trading. 26 percent is doable in an altcoin pump. Do what you do best and spot the trending coins. Also, always practice making 500 pips minimum per trade and record bad/good DCA ratios.
+
+This trader is an inspiration. He made it all back and more.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After the 2017 bull run I bought many coins too early and my remaining Kucoin portfolio dropped more than 80% in 3 years.<br><br>At the End of 2020 I said fuck it and doubled down.<br>In 2021 my spot portfolio did a x270.<br><br>Fortunes are made in bear markets.</p>&mdash; crypto bullet 📈 (@SilverBulletBTC) <a href="https://twitter.com/SilverBulletBTC/status/1548076733370314752?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ----
 
