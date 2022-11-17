@@ -14,12 +14,12 @@ interest hikes (higher interest hikes = more cost of borrowing money = less busi
 Since early this 2022, BTCUSD has been constantly showing a descending wedge pattern which is a bullish type ([the opposite is ascending wedge](https://twitter.com/drei4u/status/899859940759568384)).
 However, BTC breaks out of it and re-enters so we will be looking at other signals instead.
 
-_By the way, when I was writing this article, the FTX exchange went bankrupted and is now closed with user's funds along with it. I'm sorry it happened but I'm sure
+> By the way, when I was writing this article, the FTX exchange went bankrupted and is now closed with user's funds along with it. I'm sorry it happened but I'm sure
 the victims will get justice when Sam Bankman-Fried is jailed and funds are returned. 
 
-I recommend [Binance](/go/binance/) which is the largest and the safest spot and derivative exchange. Or you could try [Bitmex](/go/bitmex/) which used to be
+> I recommend [Binance](/go/binance/) which is the largest and the safest spot and derivative exchange. Or you could try [Bitmex](/go/bitmex/) which used to be
 the go-to exchange for margin trading. If you want less KYC procedures and a bit of copy trading, try [Bybit](/copy-trading-exchange/), the interface is very familiar to
-any crypto trader._ 
+any crypto trader.
 
 #### Volume Profile
 
