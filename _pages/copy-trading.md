@@ -37,9 +37,8 @@ So, there is no way the copy trading service will be able to scam you. The API y
 ### Ready to make passive income on your Bitcoin portfolio? Follow these steps:
 
 1. [Sign up to this well-known Bitcoin margin exchange](/copy-trading-exchange/).
-2. [If you don't like the one above, try this CryptoTwitter-popular exchange](/copy-trading-exchange2/) (Get 5% fee discount because of this link).
-3. [Sign up to the third-party copy trading platform](/copy-trading-platform/).
-4. You will need to set up API keys from the exchange to the platform so that the platform will automatically make trades for you coming from the master
+2. [Sign up to the third-party copy trading platform](/copy-trading-platform/).
+3. You will need to set up API keys from the exchange to the platform so that the platform will automatically make trades for you coming from the master
 trader's trades.
 
 Inside the platform, there is a PDF file where you can follow instructions in order to start the copy trading.
