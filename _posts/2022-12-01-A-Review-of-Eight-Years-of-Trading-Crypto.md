@@ -2,7 +2,7 @@
 title: "A Review of Eight Years of Trading Crypto"
 categories: [reviews, risk-management, markets]
 header:
-  teaser: https://pbs.twimg.com/media/FaYiEz5aUAAH2kz.jpg
+  teaser: /posts-images/ct.jpg
 ---
 
 So it has been 8 years now since I started with cryptocurrencies. The early days was more innocent and easier especially if you know what you are doing.
