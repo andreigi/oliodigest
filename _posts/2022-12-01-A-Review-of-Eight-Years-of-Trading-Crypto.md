@@ -1,5 +1,5 @@
 ---
-title: "Attention, Bitcoin Bottom is Here"
+title: "A Review of Eight Years of Trading Crypto"
 categories: [trading, technical-analysis]
 tags: [bitcoin]
 header:
