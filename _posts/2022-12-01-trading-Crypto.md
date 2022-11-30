@@ -1,5 +1,5 @@
 ---
-title: "A Review of Eight Years of Trading Crypto"
+title: "Trading Crypto"
 categories: [trading, technical-analysis]
 tags: [bitcoin]
 header:
