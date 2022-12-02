@@ -33,7 +33,7 @@ I remember investing around 600 US dollars.... That's it, out of that came hundr
 At first glance, you have now a garbage collection of tokens. Buuuut that's the problem... You see it as a negative (the trash tokens). You shouldn't; because out
 of the many trash tokens you have, **you had hidden gems**. You sold Dent which you had used for an expensive IVF procedure (an amount that will at least take two 
 years of saving). You made eight years worth of salary in ETH from less-than-three-months promotion of CrowdMachine in 2017. And some of your tokens may still
-turn out to be a sleeper (Update Nov. 20, 2022: Sold all SONM tokens for a whopping 57x or $53k). All that "hard work" in 2017 ==paid off handsomely== with just 
+turn out to be a sleeper (Update Nov. 20, 2022: Sold all SONM tokens for a whopping 57x or $53k). All that "hard work" in 2017 **paid off handsomely** with just 
 your ETH rewards. Forget the others, although some still have moderately huge value. 
 
 You can't win them all but believe me when I say there is no amount of freelancing work that could net you the amount you made in crypto in a year's time (Update
