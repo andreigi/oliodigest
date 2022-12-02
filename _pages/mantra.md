@@ -21,17 +21,22 @@ All the same, even if there was no market crash, I still wouldn’t touch my cor
 
 You SHALL regret selling too early, regret selling too late. Though come to think of it, nobody can truly sell or buy crypto at the right time. Be glad you are not James Howells who threw 7,500 bitcoins into the trash. The only takeaway I can think about all of this is realizing how truly lucky I really am. I didn’t lose any actual capital. 90% of the tokens I hold comes from bounties, airdrop, or mining; not from purchases (NEO was the last purchase). I remember investing around 600 US dollars…. That’s it, out of that came hundreds of thousands.
 
-At first look, you have now a garbage collection of tokens. Buuuut that’s the problem… You see it as a negative (the trash tokens). You shouldn’t; because out of the many trash tokens you have, you had hidden gems. You sold Dent which you had used for an expensive IVF procedure (an amount that will at least take two years of saving). You made eight years worth of salary in ETH from the thing you did in 2017. And some of your tokens may still turn out to be a sleeper. All that “hard work” in 2017 paid off well with just your ETH rewards. Forget the others, although some still have moderately huge value. 
+At first glance, you have now a garbage collection of tokens. Buuuut that's the problem... You see it as a negative (the trash tokens). You shouldn't; because out
+of the many trash tokens you have, **you had hidden gems**. You sold Dent which you had used for an expensive IVF procedure (an amount that will at least take two 
+years of saving). You made eight years worth of salary in ETH from less-than-three-months promotion of CrowdMachine in 2017. And some of your tokens may still
+turn out to be a sleeper (Update Nov. 20, 2022: Sold all SONM tokens for a whopping 57x or $53k). All that "hard work" in 2017 ==paid off handsomely== with just 
+your ETH rewards. Forget the others, although some still have moderately huge value.
 
-You can’t win them all but believe me when I say there is no amount of freelancing work that could net you the amount you made in crypto in a year’s time. I chose the right path. Count your blessings, you still got lucky, no regrets.
+You can't win them all but believe me when I say there is no amount of freelancing work that could net you the amount you made in crypto in a year's time (Update
+Nov. 20, 2022: I made 5 years worth of freelance salary in one token dump). I chose the right path. Count your blessings, you still got lucky, no regrets.
 
 **MOVE ON** from your garbage coins and extract what little value they have now and then **TRADE THEM WITH NEWER ALTCOINS**. Bring back that old value altcoin hunter in you and make 10Xes profits again.
 
 Don’t be sad, just man up, have guts and do some margin trading! We just try our best to profit from trading. It doesn’t matter if bear or bull, as long as there is volatility of a thousand dollars. We can be rich by doing intraday trading Bitcoin.
 
-And you can still bring back the Mintpal/Poloniex days of glorious altcoin trading, it’s a skill you never lost. Just do it again. And do it fast in time for Bitcoin’s next bullrun. Do what you do best and spot the trending coins.
- 
-Actually, you just need to make at least $40,000, 26%, or about 2.22 BTC to fund your current goals. In fact, you used to do 2Xs minimum in altcoin trading. 26 percent is doable in an altcoin pump. Do what you do best and spot the trending coins. Also, always practice making 500 pips minimum per trade and record bad/good DCA ratios.
+And you can still bring back the Mintpal/Poloniex days of glorious altcoin trading, it’s a skill you never lost. In fact, you used to do 2Xs minimum in altcoin trading.
+Just do it again. And do it fast in time for Bitcoin’s next bullrun. Do what you do best and spot the trending coins. Also, always practice making 500 pips 
+minimum per trade and record bad/good DCA ratios.
 
 This trader is an inspiration. He made it all back and more.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">After the 2017 bull run I bought many coins too early and my remaining Kucoin portfolio dropped more than 80% in 3 years.<br><br>At the End of 2020 I said fuck it and doubled down.<br>In 2021 my spot portfolio did a x270.<br><br>Fortunes are made in bear markets.</p>&mdash; crypto bullet 📈 (@SilverBulletBTC) <a href="https://twitter.com/SilverBulletBTC/status/1548076733370314752?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -49,4 +54,4 @@ The growth in the NFTs/Gaming sector has led to interest in data storage solutio
 
 Bitgert (BRISE) and Avalanche (AVAX) have continued to feature in the list of crypto coins to watch this year.
 
-<https://twitter.com/vaynernft/status/1537138216679227393>
+<https://twitter.com/Vayner3/status/1537138216679227393>

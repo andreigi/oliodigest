@@ -30,18 +30,17 @@ bounties, airdrop, or mining; not from purchases (NEO was the last purchase).
 
 I remember investing around 600 US dollars.... That's it, out of that came hundreds of thousands.
 
-At first look, you have now a garbage collection of tokens. Buuuut that's the problem... You see it as a negative (the trash tokens). You shouldn't; because out
-of the many trash tokens you have, you had hidden gems. You sold Dent which you had used for an expensive IVF procedure (an amount that will at least take two 
-years of saving). You made eight years worth of salary in ETH from the thing you did in 2017. And some of your tokens may still turn out to be a sleeper. All 
-that "hard work" in 2017 paid off well with just your ETH rewards. Forget the others, although some still have moderately huge value. 
+At first glance, you have now a garbage collection of tokens. Buuuut that's the problem... You see it as a negative (the trash tokens). You shouldn't; because out
+of the many trash tokens you have, **you had hidden gems**. You sold Dent which you had used for an expensive IVF procedure (an amount that will at least take two 
+years of saving). You made eight years worth of salary in ETH from less-than-three-months promotion of CrowdMachine in 2017. And some of your tokens may still
+turn out to be a sleeper (Update Nov. 20, 2022: Sold all SONM tokens for a whopping 57x or $53k). All that "hard work" in 2017 ==paid off handsomely== with just 
+your ETH rewards. Forget the others, although some still have moderately huge value. 
 
-You can't win them all but believe me when I say there is no amount of freelancing work that could net you the amount you made in crypto in a year's time. I 
-chose the right path. Count your blessings, you still got lucky, no regrets.
+You can't win them all but believe me when I say there is no amount of freelancing work that could net you the amount you made in crypto in a year's time (Update
+Nov. 20, 2022: I made 5 years worth of freelance salary in one token dump). I chose the right path. Count your blessings, you still got lucky, no regrets.
 
 Annnnnd you can still bring back the Mintpal/Poloniex days of glorious altcoin trading, it's a skill you never lost. Just do it again. And do it fast in time 
 for Bitcoin's second half of the bullrun.
 
-
-P.S.
-Remember that Bitfinex hack where in a case of bad timing, you sent all your Bitcoin to trade Monero? You were lucky that you get to rebuild even with the 
-haircut refund. I remember it was the worst of times, where I was considering to quit.
+P.S. - Remember that Bitfinex hack where in a case of bad timing, you sent all your Bitcoin to trade Monero? You were lucky that you get to rebuild even with
+the haircut refund. I remember it was the worst of times, when I was considering to quit.
