@@ -15,6 +15,8 @@ looking for in a great investment.
 
 ![rocket]({{ site.baseurl }}/posts-images/rocket-launch.jpg "rocketship")
 
+The following list are coins I've picked in 2017. I listed them here to illustrate why I picked them:
+
 1. BNB It is a Binance coin where some of the transaction fees in the largest cryptoexchange which is in BNB are auto-burned, making it deflationary. 
 **An investment here is an investment in Binance**. If you believed in Changpeng Zhao, ex-CTO at Okcoin, you would have been rich by now.
 
@@ -48,17 +50,19 @@ Hybrid consensus splits up the finality gadget from the block production mechani
 
 ### Failed Project
 
-10. Quadrant Protocol EQUAD is a blockchain-based protocol that **enables the mapping, access, creation, and distribution of data products and services** with 
+Quadrant Protocol EQUAD is a blockchain-based protocol that **enables the mapping, access, creation, and distribution of data products and services** with 
 authenticity and provenance at its core.
-----
+
+****
+
 So basically, all coins that pumped are 8 Layer-1 technologies that make blockchains faster and more efficient and one coin attached to the now number one 
 crypto exchange.
 
 These base blockchains have a higher chance of being adopted by the masses because they have the latest technology, the latest iteration of blockchain tech. Of
 course, we have yet to see which technology the whole world will use in the end. BNB is the only coin which only grew because of its attached exchange's popularity.
 
-While the singular failed coin wasn't really meant for mass adoption. It caters to a very specific section of the tech market. Besides they already abandoned the project 
-after making substandard prototype apps.
+EQUAD wasn't really meant for mass adoption. It only caters to a very specific section of the tech market. Besides they already abandoned the project 
+after making substandard prototype apps. Also, I remember they lack marketing. 
 
 ### Conclusion
 
