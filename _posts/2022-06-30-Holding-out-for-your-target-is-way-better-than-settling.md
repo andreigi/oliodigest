@@ -11,7 +11,11 @@ After some introspection, I believe regrets of selling early is the worse. Why? 
 
 Because opportunities are fleeting and the best ones are rare; you grab your tickets and aim for the best, your dreams - no settling for second best. You only live once, it might never happen again in your lifetime. Fly high then crash and burn than never fly at all.
 
-I remember chasing after really pretty girls. I usually choke and never attempt to talk to them. I remember not trying at all is the worse regret than trying to contact them and failing (at least you tried, now you know it's not for you). The YOLO attitude is better than backing out and wondering a better life. Tried and failed is better than never tried at all, YOLO!
+I remember chasing after really pretty girls. I usually choke and never attempt to talk to them. I remember not trying at all is the worse regret than trying to 
+contact them and failing (at least you tried, now you know it's not for you). The YOLO attitude is better than backing out and wondering a better life. Tried 
+and failed is better than never tried at all, YOLO!
+
+![bitcoin](/posts-images/bitcoin-yolo.jpg "regrets")
 
 Imagine if your YOLOs were successes. Man, you have reached your dreams! If your YOLOs failed, well, you already know what it feels like in the dirt. Maybe another opportunity will come along, in Crypto, there will still be lots of opportunities since it's still dial-up early, you just have to get out of the bed and search for them.
 
