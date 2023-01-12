@@ -41,12 +41,6 @@ minimum per trade and record bad/good DCA ratios.
 This trader is an inspiration. He made it all back and more.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">After the 2017 bull run I bought many coins too early and my remaining Kucoin portfolio dropped more than 80% in 3 years.<br><br>At the End of 2020 I said fuck it and doubled down.<br>In 2021 my spot portfolio did a x270.<br><br>Fortunes are made in bear markets.</p>&mdash; crypto bullet 📈 (@SilverBulletBTC) <a href="https://twitter.com/SilverBulletBTC/status/1548076733370314752?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Another guy I'm envious of. Jesus Christ! Even got liquidated three times!
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally reached over $10m net worth 🔥<br><br>Started with 1 <a href="https://twitter.com/search?q=%24BTC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$BTC</a> two years ago, got fully liquidated 3 times.. Time to build my mum the best house ever 💪<br><br>Feeling so fulfilled I will giveaway 25 <a href="https://twitter.com/search?q=%24ETH&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ETH</a> to random anon who like, retweet and follow in 24h (not joking)! <a href="https://t.co/emcRJn2aV8">pic.twitter.com/emcRJn2aV8</a></p>&mdash; Rasu 🦇🔊 (@rasu_eth) <a href="https://twitter.com/rasu_eth/status/1599772709906284544?ref_src=twsrc%5Etfw">December 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-He's buying altcoins now.
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The risk of starting to scale into long term positions is low.<br><br>Not saying we’ve found a perfect bottom, but if you’re still here now you’ve survived the worst, and will be in the minority that’s stuck around and paid attention. <br><br>Starting to scale back into alts.</p>&mdash; Rasu 🦇🔊 (@rasu_eth) <a href="https://twitter.com/rasu_eth/status/1599139070227075072?ref_src=twsrc%5Etfw">December 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ----
 
 ARK Expects Cryptoassets And Digital Wallets To Command Nearly $50 Trillion In Equity Market Capitalization By 2030
