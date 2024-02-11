@@ -5,7 +5,7 @@ header:
   teaser: /posts-images/2023.jpg
 ---
 
-2022 it has been a tumultuous year for cryptocurrencies. Uproar amidst the increasing Flashbots dominance in relaying Ethereum blocks. NFTs/Gaming vertical attracted the most funding this
+2022 has been a tumultuous year for cryptocurrencies. Uproar amidst the increasing Flashbots dominance in relaying Ethereum blocks. NFTs/Gaming vertical attracted the most funding this
 year. Emergence of application-focused chains. Number of employment in the digital asset industry has jumped over 351% since 2019. Arbitrum, Optimism, and dYdX largely dominate the
 overall landscape for Ethereum-based scaling solutions. 
 
