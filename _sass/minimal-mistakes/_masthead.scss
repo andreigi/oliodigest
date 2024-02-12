@@ -42,7 +42,11 @@
 .site-logo img {
   max-height: 2rem;
 }
-
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600);
+.customtitle {
+  font-family: 'Open Sans', sans-serif;
+  display: inherit;
+}
 .site-title {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -50,12 +54,11 @@
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
-  // z-index: 20;
+  z-index: 20;
+  margin-right: 0 !important;
 }
-
-.site-subtitle {
-  display: block;
-  font-size: $type-size-8;
+.midnight {
+  color: #668196;
 }
 
 .masthead__menu {
