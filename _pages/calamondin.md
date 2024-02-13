@@ -3,13 +3,12 @@ title: "Calamondin: The Miniature Orange"
 layout: single
 permalink: /calamondin/
 classes: default
-<!-- excerpt: "Kumquats are not calamondins" -->
 toc: true
 read_time: true
 comments: true
 share: true
 ---
-
+<!-- excerpt: "Kumquats are not calamondins" -->
 ### Background
 
 Calamondin, a native citrus plant in the Philippines and China, is cultivated in Southeast Asia and elsewhere as an important crop. 

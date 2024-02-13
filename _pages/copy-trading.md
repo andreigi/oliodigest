@@ -6,11 +6,10 @@ author_profile: true
 read_time: true
 comments: true
 share: true
-<!-- excerpt: "Basically the copy trading platform is just a bridge for master traders and their followers." -->
 header:
   teaser: /posts-images/copytrading.jpg
 ---
-
+<!-- excerpt: "Basically the copy trading platform is just a bridge for master traders and their followers." -->
 I assume you already had bitcoins for quite some time now and by holding you hope that your BTC will make you rich someday. Unless you're already rich,
 hodling bitcoin won't make you wealthy the way you want to be - hookers and blow, lambos and all. This [article](/why-just-holding-bitcoin-wont-make-you-rich/)
 explains why you should be margin trading your stack of bitcoins.

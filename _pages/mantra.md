@@ -6,11 +6,10 @@ author_profile: true
 read_time: true
 comments: true
 share: false
-<!-- excerpt: "You can’t win them all" -->
 header:
   teaser: /posts-images/copytrading.jpg
 ---
-
+<!-- excerpt: "You can’t win them all" -->
 Web3 is the future or something like it. Crypto will be ubiquitous because we do everything online nowadays. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">4/ Our CEO <a href="https://twitter.com/garyvee?ref_src=twsrc%5Etfw">@garyvee</a> recently stated, “the ‘consumer blockchain’ will be the single biggest technological shift since the invention of the internet.” 💡<br><br>The Web3 genie is out of the bottle, and while this technology will adapt over time, there’s no going backwards 🧞➡️</p>&mdash; Vayner3 (@Vayner3) <a href="https://twitter.com/Vayner3/status/1537138220701564929?ref_src=twsrc%5Etfw">June 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
