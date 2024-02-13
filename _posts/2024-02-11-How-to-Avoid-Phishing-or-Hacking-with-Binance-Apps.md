@@ -40,6 +40,6 @@ Size: 187865441 bytes (179 MiB)
 HA256: 57C48A6D87F59FB9C11D8B9729F90CC27BE4294346564B7C97F4C3DDD1F6276A
 SHA1: 8DA40E91467EAE6FB1B7CFE13049EAF1EB5B0E34`
 
-According to Google Playstore, this version is 2.78.5. Install apk and then disable auto-updating the app in Playstore.
+According to Google Playstore, this version is 2.78.4. Install apk and then disable auto-updating the app in Playstore.
 
 **PS: I will update this post if checksum values change in the future.**
