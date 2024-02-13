@@ -6,7 +6,7 @@ author_profile: true
 read_time: true
 comments: true
 share: false
-excerpt: "You can’t win them all"
+<!-- excerpt: "You can’t win them all" -->
 header:
   teaser: /posts-images/copytrading.jpg
 ---
