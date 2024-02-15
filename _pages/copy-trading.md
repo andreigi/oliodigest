@@ -51,8 +51,9 @@ current unrealised Profit and Loss in the platform.
 
 ### What about me?
 
-I will announce on Twitter when I'm actively margin trading Bitcoin and whenever I go on a break so you can follow other traders. Also since I'm relatively
-new to this service, I have no trade history to brag about except my Twitter calls. I have yet to build up a trade history so expect it later.
+I don't regularly trade my portfolio and when I do, it is in a different platform from the copytrading one. I do however have a [practice account trading history](https://bit-copy.com/en/trader/603?ref=1wO1tQE9qDDjMv46KTDoSmw00inRQq).
+You can see I have intermittent trading sessions. I also make it a point to fix wrong trade direction in my positions, so you can see there are hardly any
+losses.
 
 ****
 
