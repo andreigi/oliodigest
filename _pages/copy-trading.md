@@ -33,13 +33,11 @@ current unrealised Profit and Loss in the platform.
 
 ### What about me?
 
-I don't regularly trade my portfolio and when I do, it is in a different platform from the copytrading one. I do however have a [practice account trading history](https://bit-copy.com/en/trader/603?ref=1wO1tQE9qDDjMv46KTDoSmw00inRQq).
+I don't regularly trade my portfolio and when I do, it is in a different platform from the copytrading one. I do however have a [practice account trading history](/btc-futures-journal/).
 You can see I have intermittent trading sessions. I also make it a point to fix wrong trade direction in my positions, so you can see there are hardly any
 losses.
 
 ****
 
-Now is the time to make your bitcoins work for you. Copy trading winning traders is the best because it frees up time for you to do other things.
-
-
-I will update this page with the most profitable copy trader so you don't have to research.
+Bybit Top Traders:
+1. 
