@@ -1,5 +1,5 @@
 ---
-title: "Copy my Trades: Maximum profit from Top Traders"
+title: "Copy my Trades: Maximum Profit from Top Traders"
 layout: single
 permalink: /copy-my-trades/
 author_profile: true
@@ -10,7 +10,7 @@ header:
   teaser: /posts-images/copytrading.jpg
 ---
 
-I will get to the point, you came here to know who are the best traders to copy trading from, who has the most balanced and risk-appropriate trading strategies 
+I will get to the point, you came here to know who are the best traders to copy trade from, who has the most balanced and risk-appropriate trading strategies 
 and from which exchange platform is the better value.
 
 So, probably you already know what copytrading is - your portfolio mirrors the trade position and size ratio of the master trader's portfolio; and then you pay 
@@ -21,27 +21,8 @@ the lead trader for his services with a percentage of the profit.
 ### Which exchanges to use?
 
 Two of the best copytrading platforms, you would probably already know and maybe you're already a user of said platform. However, if you are still not a user,
-I encourage you to sign up for [Bybit](/go-to-bybit/) and Binance. Please use my links so that it would incentivize to review new upcoming winning traders to copy.
-
-Your capital is in a separate site which is the exchange. The service or the trader cannot withdraw your funds, they can only trade it on the exchange. The way
-it works is that the Bitcoin margin trading exchange where your trading funds are to be deposited is the one paying the third-party copy trading service
-and the copied trader. Each time a follower or a copier's portfolio executes a trade, the exchange pays these service providers. I'm guessing it comes from the
-trading fees the exchange charges. The thing is you pay the same amount of trading fees whether you're copying or doing the trade yourself.
-
-Basically the copy trading platform is just a bridge for master traders and their followers. The master trader opens a long or short position in the exchange 
-and it broadcasts an API to the platform. The platform then opens a position in the follower's trading account through API. The same goes for closing a 
-position.
-
-So, there is no way the copy trading service will be able to scam you. The API you set in the exchange doesn't allow for withdrawals.
-
-### Ready to make passive income on your Bitcoin portfolio? Follow these steps:
-
-1. [Sign up to this well-known Bitcoin margin exchange](/copy-trading-exchange/).
-2. [Sign up to the third-party copy trading platform](/copy-trading-platform/).
-3. You will need to set up API keys from the exchange to the platform so that the platform will automatically make trades for you coming from the master
-trader's trades.
-
-Inside the platform, there is a PDF file where you can follow instructions in order to start the copy trading.
+I encourage you to sign up for [Bybit](/go-to-bybit/) and [Binance](/funds-are-safu/). Please use my links so that it would incentivize me to review new upcoming
+winning traders to copy.
 
 ### Which Master Trader to follow?
 

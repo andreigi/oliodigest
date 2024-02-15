@@ -48,11 +48,11 @@ leverage factor you could also increase your losses exponentially - "_With high 
 
 ### Best Platforms to Margin Trade Bitcoin
 
-**[Binance](https://oliodigest.com/go/binance/) is the largest and most user-friendly of all the cryptocurrency exchanges**. It also has the most liquid 
+**[Binance](/funds-are-safu/) is the largest and most user-friendly of all the cryptocurrency exchanges**. It also has the most liquid 
 orderbooks, meaning there is less slippage. If you decide to dump your bitcoins, it won't go down so far from your target sell price, the same goes for 
 buying. The site has everything, there are even tutorials for beginners, for people who have little knowledge of blockchains or even trading. I suggest you
 sign up here. Binance has spot (actually exchange your fiat to coins), margin and futures trading up to 100x. There is also a savings feature for your coins, which means you earn interest for parking 
-your crypto coins there. Get 10% discount on trading fees for 30 days, if you use this [link](https://oliodigest.com/go/binance/).
+your crypto coins there. Get 10% discount on trading fees for 30 days, if you use this [link](/funds-are-safu/).
 
 Furthermore, you also get some exposure to alternative cryptocurrencies like Ethereum, Cardano, Litecoin, etc. You could trade them there.
 
