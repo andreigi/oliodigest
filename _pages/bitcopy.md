@@ -1,7 +1,7 @@
 ---
-title: "Copy my Trades: Maximum profit from Top Traders"
+title: "Copy my Trades: How to Automatically Copy Bitcoin Trades from Master Traders for Free"
 layout: single
-permalink: /copy-my-trades/
+permalink: /old-copy-my-trades/
 author_profile: true
 read_time: true
 comments: true
@@ -9,19 +9,18 @@ share: true
 header:
   teaser: /posts-images/copytrading.jpg
 ---
+<!-- excerpt: "Basically the copy trading platform is just a bridge for master traders and their followers." -->
+I assume you already had bitcoins for quite some time now and by holding you hope that your BTC will make you rich someday. Unless you're already rich,
+hodling bitcoin won't make you wealthy the way you want to be - hookers and blow, lambos and all. This [article](/why-just-holding-bitcoin-wont-make-you-rich/)
+explains why you should be margin trading your stack of bitcoins.
 
-I will get to the point, you came here to know who are the best traders to copy trading from, who has the most balanced and risk-appropriate trading strategies 
-and from which exchange platform is the better value.
+Anyway, you came here to find out **"how to copy bitcoin trades from master traders for free."** Just like you I hate those paid signal groups which often dupe
+people into buying worthless lifetime subscription or copy trading service that either charge you subscription fees yet the master trader sucks. Or maybe you
+experience a low-fee subscription mirror trading service but you have to deposit large funds (smells like a future exit scam in the making).
 
-So, probably you already know what copytrading is - your portfolio mirrors the trade position and size ratio of the master trader's portfolio; and then you pay 
-the lead trader for his services with a percentage of the profit.
-  
 ![copytrading]({{ site.baseurl }}/posts-images/copytrading.jpg "copytrading")
 
-### Which exchanges to use?
-
-Two of the best copytrading platforms, you would probably already know and maybe you're already a user of said platform. However, if you are still not a user,
-I encourage you to sign up for [Bybit](/go-to-bybit/) and Binance. Please use my links so that it would incentivize to review new upcoming winning traders to copy.
+> Well, the copy trading service I'm about to share to you, has no catch at all. 
 
 Your capital is in a separate site which is the exchange. The service or the trader cannot withdraw your funds, they can only trade it on the exchange. The way
 it works is that the Bitcoin margin trading exchange where your trading funds are to be deposited is the one paying the third-party copy trading service
@@ -59,6 +58,3 @@ losses.
 ****
 
 Now is the time to make your bitcoins work for you. Copy trading winning traders is the best because it frees up time for you to do other things.
-
-
-I will update this page with the most profitable copy trader so you don't have to research.
