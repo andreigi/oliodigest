@@ -45,18 +45,20 @@ losses.
 
 ****
 
-Bybit Top Traders:
+[Bybit](/go-to-bybit/) Top Traders:
 1. CryptoVikings07
 2. ITEKCrypto
 3. BitCopy
 4. manicptlowrisk
 
-Binance Top Traders:
+[Binance](/funds-are-safu/) Top Traders:
 1. Phanthangsg
 2. Sir_Large
 3. BTCxHUNTER
 4. Thumien2008
 5. Roger_sh
 6. RichDragons
+7. ImSlow
+8. MasterRayn
 
 _Note: I will write reviews on individual copy master traders soon in the coming days._ 
