@@ -20,7 +20,7 @@ the lead trader for his services with a percentage of the profit.
 
 ### Which exchanges to use?
 
-Two of the best copytrading platforms, you would probably already know and maybe you're already a user of said platform. However, if you are still not a user,
+Two of the best copytrading platforms, you probably already know and maybe you're already a user of said platform. However, if you are still not a user,
 I encourage you to sign up for [Bybit](/go-to-bybit/) and [Binance](/funds-are-safu/). Please use my links so that it would incentivize me to review new upcoming
 winning traders to copy.
 
@@ -31,6 +31,12 @@ trader with one of the lowest drawdown that's real. What do I mean real? I'm tal
 by holding already large losses in their active positions. Remember "Let your winners run and cut your losses early." You can always check out a traders'
 current unrealised Profit and Loss in the platform.
 
+Also, note their Sharpe Ratio. Numbers above 1 is good, the higher the better. Be mindful of traders that always use high leverage, they tend to fly high and great 
+at first but then they didn't cut their losses early and got liquidated. It can happen to anybody, even the best of the best traders.
+
+![ugly]({{ site.baseurl }}/posts-images/crashandburn.png "high leverage")
+Note: Why would a trader with high win rate lose so much? Avoid this.
+
 ### What about me?
 
 I don't regularly trade my portfolio and when I do, it is in a different platform from the copytrading one. I do however have a [practice account trading history](/btc-futures-journal/).
@@ -40,4 +46,17 @@ losses.
 ****
 
 Bybit Top Traders:
-1. 
+1. CryptoVikings07
+2. ITEKCrypto
+3. BitCopy
+4. manicptlowrisk
+
+Binance Top Traders:
+1. Phanthangsg
+2. Sir_Large
+3. BTCxHUNTER
+4. Thumien2008
+5. Roger_sh
+6. RichDragons
+
+_Note: I will write reviews on individual copy master traders soon in the coming days._ 
