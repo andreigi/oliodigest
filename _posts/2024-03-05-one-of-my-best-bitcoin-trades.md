@@ -14,4 +14,6 @@ The logic here is that the chances of breaking through ATHs on first attempt is 
 momentum caused by retail. What we have here is measured movements. There will be retrace however small it is.
 
 However, this is one of those nobrainer trades. We all know there will be a pump prior to Bitcoin halving like what happens before every halving in its 
-price history.  
+price history.
+
+So, my profit here is $145,066 (47,237.90 + 97,828.59 "1.46524562btc").
