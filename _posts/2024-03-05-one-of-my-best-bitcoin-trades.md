@@ -13,5 +13,5 @@ Limit closed my 16,395 pips long #bitcoin futures position. OMG the funding fees
 The logic here is that the chances of breaking through ATHs on first attempt is very low, something like 1 of 10? Only time it does is frenzied buying 
 momentum caused by retail. What we have here is measured movements. There will be retrace however small it is.
 
-However, this is one of those nobrainer trades. We all know there will be a pump prior to Bitcoin halving like what happens after every halving in its 
+However, this is one of those nobrainer trades. We all know there will be a pump prior to Bitcoin halving like what happens before every halving in its 
 price history.  
