@@ -29,7 +29,7 @@ your ETH rewards. Forget the others, although some still have moderately huge va
 You can't win them all but believe me when I say there is no amount of freelancing work that could net you the amount you made in crypto in a year's time (Update
 Nov. 20, 2022: I made 5 years worth of freelance salary in one token dump). I chose the right path. Count your blessings, you still got lucky, no regrets.
 
-**MOVE ON** from your garbage coins and extract what little value they have now and then **TRADE THEM WITH NEWER ALTCOINS**. Bring back that old value altcoin hunter in you and make 10Xes profits again.
+**FORGET** your garbage coins, they are useless now. **TRADE THE NEWER ALTCOINS**. Bring back that old value altcoin hunter in you and make 10Xes profits again.
 
 Don’t be sad, just man up, have guts and do some margin trading! We just try our best to profit from trading. It doesn’t matter if bear or bull, as long as there is volatility of a thousand dollars. We can be rich by doing intraday trading Bitcoin.
 

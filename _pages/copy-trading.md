@@ -46,7 +46,7 @@ losses.
 ****
 
 [Bybit](/go-to-bybit/) Top Traders:
-1. CryptoVikings07 (Slots are full, to get more slots [click here](https://i.bybit.com/2ab3iNey?action=inviteToCopy))
+1. CryptoVikings07 (Slots are full, this guy is hot! Just made $1MUSD from nothing in a few months, mention me in a Twitter post so I can get you exclusive slot)
 2. ITEKCrypto
 3. BitCopy
 4. manicptlowrisk
