@@ -1,11 +1,11 @@
 ---
-title: "Tom Dante: Making calls is not the same as trading"
+title: "Tom: Making calls is not the same as trading"
 categories: [trading, technical-analysis]
 header:
   teaser: https://i.imgur.com/5C2GjsM.png
 ---
 
-The best trade caller I've ever known - This is the story of someone who could read the market well but could not translate it into profitability.
+The trade caller I've ever known - This is the story of someone who could read the market well but could not translate it into profitability.
 
 Once upon a time, (around 15 years ago), I worked alongside a young man with an incredible talent for predicting market moves.
 
