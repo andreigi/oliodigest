@@ -5,8 +5,8 @@ header:
   teaser: https://i.imgur.com/fhFxH6D.jpeg
 ---
 
-Don't get me wrong. I still believe in the technology and nothing wrong with YOLO. In fact, I still strongly believe the tech is revolutionary and it will 
-change the way we transfer value online which is using trustless networks.
+Don't get me wrong. I still believe in the technology and nothing wrong with the YOLO philosophy (You Only Live Once). In fact, I still strongly believe the 
+tech is revolutionary and it will change the way we transfer value online which is using trustless networks.
 
 Nothing wrong with believing that innovation and new technology can make you rich. In fact, Amazon, Apple, Facebook and Google are the best inspirations of 
 what innovation can develop into. It's just that with the crypto industry which directly deals with money and markets, 95% of it is just straight out ponzi 
@@ -25,3 +25,5 @@ So, don't get disappointed that a coin you hodled throughout the years is zero v
 actually put up capital.
 
 #### Just be careful next time, even legit projects die.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow! What a complicated and intelligent way to say, &quot;it&#39;s a crypto scam through and through.&quot; <a href="https://t.co/6xGbOC1PCu">pic.twitter.com/6xGbOC1PCu</a></p>&mdash; #CarabaoRun2024 (@drei4u) <a href="https://twitter.com/drei4u/status/1843365672719729117?ref_src=twsrc%5Etfw">October 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
