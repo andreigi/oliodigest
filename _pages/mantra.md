@@ -10,12 +10,14 @@ header:
   teaser: /posts-images/copytrading.jpg
 ---
 <!-- excerpt: "You can’t win them all" -->
-Web3 is the future or something like it. Crypto will be ubiquitous because we do everything online nowadays. 
+Web3 is the future or something like it. Crypto will be ubiquitous because we do everything online nowadays. Although, avoid memecoins unless you want to gamble 
+a bit. I've been sensing that AI coins are the 10Xers in this 2023+ Bullrun.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">4/ Our CEO <a href="https://twitter.com/garyvee?ref_src=twsrc%5Etfw">@garyvee</a> recently stated, “the ‘consumer blockchain’ will be the single biggest technological shift since the invention of the internet.” 💡<br><br>The Web3 genie is out of the bottle, and while this technology will adapt over time, there’s no going backwards 🧞➡️</p>&mdash; Vayner3 (@Vayner3) <a href="https://twitter.com/Vayner3/status/1537138220701564929?ref_src=twsrc%5Etfw">June 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-BTC is now back to $65k. It crashed as often as it has had bull markets. Still the same policy: I still wouldn’t touch my core coinstack unless we reach the 
-desired price. So, I think we should try to instead time the market top which may probably be around $250k per BTC which may happened in 2025. 
+Jesus Christ, Bitcoin is making new ATHs! However remember it crashes as often as it has had bull markets. Still the same policy: I still wouldn’t touch my core 
+coinstack unless we reach the desired price. So, I think we should try to instead time the market top which may probably be around $250k per BTC which may 
+happened in 2025. 
 
 You SHALL regret selling too early, regret selling too late. Though come to think of it, nobody can truly sell or buy crypto at the right time. Be glad you are 
 not James Howells who threw 7,500 bitcoins into the trash. The only takeaway I can think about all of this is realizing how truly lucky I really am. I didn’t 
@@ -24,12 +26,12 @@ around 600 US dollars…. That’s it, out of that came hundreds of thousands.
 
 At first glance, you have now a garbage collection of tokens. Buuuut that's the problem... You see it as a negative (the trash tokens). You shouldn't; because 
 out of the many trash tokens you have, **you had hidden gems**. You sold Dent which you had used for an expensive IVF procedure (an amount that will at least 
-take two years of saving). You made eight years worth of salary in ETH from less-than-three-months promotion of CrowdMachine in 2017. And some of your tokens 
-may still turn out to be a sleeper (Update Nov. 20, 2022: Sold all SONM tokens for a whopping 57x or $53k). All that "hard work" in 2017 **paid off handsomely** 
-with just your ETH rewards. Forget the others, although some still have moderately huge value.
+take two years of saving as a freelance programmer, around 8,000 USD I think). You made eight years worth of salary in ETH (23 ETH, $90k 2024 value) from less-than-three-months 
+promotion of CrowdMachine in 2017. And some of your tokens may still turn out to be a sleeper (Nov. 20, 2022: Sold all SONM tokens for a whopping 57x or $53k). 
+All that "hard work" in 2017 **paid off handsomely** with just your ETH rewards. Forget the others, although some still have moderately huge value.
 
-You can't win them all but believe me when I say there is no amount of freelancing work that could net you the amount you made in crypto in a year's time 
-(Update Nov. 20, 2022: I made 5 years worth of freelance salary in one token dump). I chose the right path. Count your blessings, you still got lucky, no regrets.
+You can't win them all but believe me when I say there is no amount of freelancing work that could net you the amount you made in crypto in a year's time. 
+Remember, YOU MADE 5 years worth of freelance salary in one token dump! (SONM). I chose the right path. Count your blessings, you still got lucky, no regrets.
 
 **FORGET** your garbage coins, they are useless now. **TRADE THE NEWER ALTCOINS**. Bring back that old value altcoin hunter in you and make 10Xes profits again.
 
@@ -50,12 +52,16 @@ This trader is an inspiration. He made it all back and more.
 
 ARK Expects Cryptoassets And Digital Wallets To Command Nearly $50 Trillion In Equity Market Capitalization By 2030
 
-Polkadot, Solana, Cosmos, Terra, NEAR, BSC, Avalanche --- Other blockchain networks that garnered at least 5
-investments in their ecosystems include Avalanche, Binance Smart Chain, Cardano, Cosmos, Flow blockchain, and Polygon.
+Polkadot, Solana, Cosmos, Terra, NEAR, BSC, Avalanche --- Other blockchain networks that garnered at least 5 investments in their ecosystems include Avalanche,
+Binance Smart Chain, Cardano, Cosmos, Flow blockchain, and Polygon.
 
-The largest raise from one of these social networks included the social media platform DeSo (formerly BitClout), which raised a total of $200 million during its token sale to investors, including Andreessen Horowitz (a16z), Coinbase Ventures, and Sequoia. Other open protocols for content and social media that received funding included RSS3, Solcial, Torum. Similar to social networks, other protocols that support streaming like Livepeer, an Ethereum-based streaming platform, secured a $20 million funding round led by Digital Currency Group during the third quarter.
+The largest raise from one of these social networks included the social media platform DeSo (formerly BitClout), which raised a total of $200 million during 
+its token sale to investors, including Andreessen Horowitz (a16z), Coinbase Ventures, and Sequoia. Other open protocols for content and social media that 
+received funding included RSS3, Solcial, Torum. Similar to social networks, other protocols that support streaming like Livepeer, an Ethereum-based streaming 
+platform, secured a $20 million funding round led by Digital Currency Group during the third quarter.
 
-The growth in the NFTs/Gaming sector has led to interest in data storage solutions like Arweave, as one of its primary use cases to date has been storing the metadata content of NFTs (image, gif, video, or sound).
+The growth in the NFTs/Gaming sector has led to interest in data storage solutions like Arweave, as one of its primary use cases to date has been storing the 
+metadata content of NFTs (image, gif, video, or sound).
 
 Bitgert (BRISE) and Avalanche (AVAX) have continued to feature in the list of crypto coins to watch this year.
 
