@@ -17,3 +17,6 @@ Whatsapp +852 5635 4801
 Bought GHK-Cu, BPC-157 and TB-500 (parts of the "Glow stack") from her.
 
 When you contact them, tell them you got the contact info from me so they will give same price like mine.
+
+**NOTE:** If you really want to go deeper into the peptide rabbit hole where the really dirt-cheap prices are, you need to go to  
+[ThinkSteroids](https://thinksteroids.com/community/forums/steroid-underground.45/) or [GLP1Forum](https://glp1forum.com/categories/vendor-connection/) and chat [Peptide Chat](https://peptide.chat/).
