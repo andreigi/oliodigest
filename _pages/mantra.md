@@ -11,18 +11,20 @@ header:
 ---
 <!-- excerpt: "You can’t win them all" -->
 Web3 is the future or something like it. Crypto will be ubiquitous because we do everything online nowadays. Although, avoid memecoins unless you want to gamble 
-a bit. I've been sensing that AI coins are the 10Xers in this 2023+ Bullrun.
+a bit. I've been sensing that anything related to AI are the 10Xers in this 2023+ Bullrun. US tech stocks are piling on AI. It will be the next big tech bubble
+where Bitcoin and the rest of crypto will surely benefit from it because crypto is already integrated into the tech industry. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">4/ Our CEO <a href="https://twitter.com/garyvee?ref_src=twsrc%5Etfw">@garyvee</a> recently stated, “the ‘consumer blockchain’ will be the single biggest technological shift since the invention of the internet.” 💡<br><br>The Web3 genie is out of the bottle, and while this technology will adapt over time, there’s no going backwards 🧞➡️</p>&mdash; Vayner3 (@Vayner3) <a href="https://twitter.com/Vayner3/status/1537138220701564929?ref_src=twsrc%5Etfw">June 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Jesus Christ, Bitcoin is making new ATHs! However remember it crashes as often as it has had bull markets. Still the same policy: I still wouldn’t touch my core 
-coinstack unless we reach the desired price. So, I think we should try to instead time the market top which may probably be around $250k per BTC which may 
-happened in 2025. 
+Jesus Christ, Bitcoin is making new ATHs! However remember it crashes as often as it has had bull markets. In fact lately every new ATH, an insuing dump comes 
+after. However, we still follow the same policy: I still wouldn’t touch my core coinstack unless we reach the desired price. So, I think we should try to instead
+time the bull market top which may probably be around $250k per BTC which may happened in late 2026. Until you see the well-defined signals of a bull market top,
+don't worry about crashes during bull markets. In fact, view it as a buying opportunity.
 
 You SHALL regret selling too early, regret selling too late. Though come to think of it, nobody can truly sell or buy crypto at the right time. Be glad you are 
 not James Howells who threw 7,500 bitcoins into the trash. The only takeaway I can think about all of this is realizing how truly lucky I really am. I didn’t 
 lose any actual capital. 90% of the tokens I hold comes from bounties, airdrop, or mining; not from purchases (NEO was the last purchase). I remember investing 
-around 600 US dollars…. That’s it, out of that came hundreds of thousands.
+around 600 US dollars…. That’s it, out of that came $1M+ worth of profits.
 
 At first glance, you have now a garbage collection of tokens. Buuuut that's the problem... You see it as a negative (the trash tokens). You shouldn't; because 
 out of the many trash tokens you have, **you had hidden gems**. You sold Dent which you had used for an expensive IVF procedure (an amount that will at least 
@@ -35,15 +37,14 @@ Remember, YOU MADE 5 years worth of freelance salary in one token dump! (SONM). 
 
 **FORGET** your garbage coins, they are useless now. **TRADE THE NEWER ALTCOINS**. Bring back that old value altcoin hunter in you and make 10Xes profits again.
 
-Don’t be sad, just man up, have guts and do some margin trading! We just try our best to profit from trading. It doesn’t matter if bear or bull, as long as 
+Don’t be sad, just man up, have guts and do some margin trading! We just try our best to profit from trading. It doesn’t matter if bear or bull; long or short, as long as 
 there is volatility of a thousand dollars. We can be rich by doing intraday trading Bitcoin.
 
 Update [March 5, 2024](https://oliodigest.com/trading/technical-analysis/one-of-my-best-bitcoin-trades/): I made $145,066 on trading the Bitcoin halving pump. 
 You do need your trading capital around in special events such as the halving.
 
 And you can still bring back the Mintpal/Poloniex days of glorious altcoin trading, it’s a skill you never lost. In fact, you used to do 2Xs minimum in altcoin 
-trading. Just do it again. And do it fast in time for Bitcoin’s next bullrun. Do what you do best and spot the trending coins. Also, always practice making 500 
-pips minimum per trade and record bad/good DCA ratios.
+trading. Just do it again. And do it fast in time for Bitcoin’s next bullrun. Do what you do best and spot the trending coins.
 
 This trader is an inspiration. He made it all back and more.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">After the 2017 bull run I bought many coins too early and my remaining Kucoin portfolio dropped more than 80% in 3 years.<br><br>At the End of 2020 I said fuck it and doubled down.<br>In 2021 my spot portfolio did a x270.<br><br>Fortunes are made in bear markets.</p>&mdash; crypto bullet 📈 (@SilverBulletBTC) <a href="https://twitter.com/SilverBulletBTC/status/1548076733370314752?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
