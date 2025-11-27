@@ -16,9 +16,9 @@ Whatsapp +86 158 4066 9648
 Bought Tirzepatide 60mg vials
 ![peptide](/posts-images/tirzepatide-vials.jpeg "tirzepatide")
 
-2) Elly Sarah of Wuhan Wansheng Bio 
+2) Wuhan Wansheng Biotech
 
-Whatsapp +852 5635 4801
+Whatsapp Sarah +852 6042 9183 Lucy +852 5693 0787
 
 Bought GHK-Cu, BPC-157 and TB-500 (parts of the "Glow stack") from her.
 
