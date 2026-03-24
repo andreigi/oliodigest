@@ -2,11 +2,9 @@
 title: "My Peptide Sources"
 ---
 
-1) Miao Ji of Muwang Chemical (my cheapest source)
+1) [Furong Peptide](https://glp1forum.com/threads/fu-rong-glowing-star-a-trustworthy-company-you-can-rely-onhandshake.12649/) (my cheapest source)
 
-Whatsapp +86 193 7664 3193
-
-Bought AHK-Cu, Epitalon and 5-amino-1mq
+Bought Retatrutide, CJC-1295 and Ipamorelin
 
 2) John Wang, Export Director, Dalian Handom Chemicals Co., Ltd
 [John Wang's videos](https://www.youtube.com/@johnwang8173), [factory's videos](https://www.youtube.com/@handomchemicals)
