@@ -95,7 +95,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/drei4u"
+    - "https://x.com/drei4u"
     - "https://www.tradingview.com/u/drei4u/"
     - "https://telegram.me/drei4u"
 # Analytics
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Drei"
   avatar           : "profilepic_200x200.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "#CarabaoRun2024 Filipino Crypto Influencer Trader since 2014 - NFT, Web3, Defi, Bitcoin Signals"
+  bio              : "Crypto Influencer Trader since 2014 - NFT, Web3, Defi, AI, Bitcoin Signals"
   location         : # "13.7239978,100.5120524"
   email            :
   links:
@@ -120,9 +120,9 @@ author:
     - label: "Link"
       icon: "fas fa-fw fa-link"
       # url: ""
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/drei4u"
+      # url: "https://x.com/drei4u"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://fb.me/drei4u/"
@@ -136,9 +136,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/drei4u"
+      # url: "https://x.com/drei4u"
     - label: "Copy Expert Traders"
       icon: "fa fa-rocket"
       url: "/copy-my-trades/" 	  
